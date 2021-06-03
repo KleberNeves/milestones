@@ -1,0 +1,45 @@
+---
+title: "generation-workflow"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{generation-workflow}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(milestones)
+```
+
+One common operation to find milestones of the history of discoveries is to obtain the generations of citations. Some terminology is useful here. Say you have a set of target papers whose history you want to study. These target papers are called **G0** (for generation). Now, the papers cited by the papers in **G0** is called **G1**. Similarly, the papers cited by the papers in **G1** are called **G2** and so forth.
+
+If you have data obtained from Web of Science, cited references are included, so it's easy to identify the next generation. What this vignette shows you is how to use the package to generate the search query to obtain the records for the next generation on Web of Science. Repeating these steps you can obtain many generations (though the size of the generations grows quickly, it's usually impractical to go beyond the 3rd).
+
+First, read in your G0 data (an example dataset is available with this package).
+
+```{r}
+G0 = read_biblio_data("G0_captopril.txt")
+```
+
+Now run the function *make_wos_query*:
+```{r}
+make_wos_query(G0)
+```
+
+This will generate a bunch of text files in the working folder, which contain search queries that can be copied and pasted on Web of Science to obtain the papers cited by G0. They are divided in multiple files, depending on the size of the search, to avoid the length limits of the Web of Science interface.
+
+Once you do the searches on Web of Science and download the records, you'd have G1. If needed, you could obtain G2 by repeating the steps above. Notice that Web of Science only exports records in parts of 500, so if the search returns more results, you'll have multiple files. The *read_biblio_data* function can handle this, as shown below.
+
+```{r}
+G1 = read_biblio_data("G1_captopril_1.txt", "G1_captopril_2.txt", "G1_captopril_3.txt")
+make_wos_query(G1) # generates text files with the queries for G2
+```
+
+Notice that Web of Science sometimes throws an error because the search is badly formatted. In this case, I recommend breaking the search query in two, repeatedly (like a binary search), until you find the problem. The culprit is usually a parenthesis, a quotation mark or some other strange character contained in the title of some document in the query.

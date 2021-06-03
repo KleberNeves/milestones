@@ -1,0 +1,67 @@
+---
+title: "Workflow to identify milestones through main paths"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{main-path-workflow}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(milestones)
+```
+
+This vignette shows how to run the main path analysis for a dataset containing bibliographic and citation data.
+
+The first step is to search for the terms on Web of Science. If you are conducting your own search, just export it as indicated in [this vignette](!...) from package *bibliometrix* (which is used under the hood to read the data). An example of such data is available in this package, so you can just import it as indicated below. This data corresponds for a search of "captopril + hypertension".
+
+```{r}
+M = read_biblio_data("G0_captopril.txt")
+```
+
+Once the data is imported, the next step is building a network. The main path algorithm runs on the citation network. This next step has many substeps and it might go wrong. For the main path algorithm to run, it needs the network not to have any cycles (i.e. if paper A cites paper B, paper B cannot cite paper A). The build_network function will attempt to fix this if it occurs, but it is not guaranteed (there might be longer cycles that go undetected - e.g. A cites B, B cites C, C cites D, D cites A). It will warn you if it can't remove all cycles, however, if it fails, there's not much that can be done at this time.
+
+```{r}
+NET = build_network(M)
+```
+
+If it succeeds, the preparation is done and the next step involves an external software, Pajek. In order to do so, first export the network in a format Pajek can read (a *.net* file).
+
+```{r}
+save_network(NET, filename = "citation_network")
+```
+
+In Pajek, the following steps will build and export the main path:
+
+1. Read Network (to pick the .net file saved in the previous step)
+2. Network → Acyclic Network → Create Weighted Network + Vector → Trasversal Weights → Search Path Link Count (SPLC)
+3. At this point, if the citation loops mentioned above have not been eliminated, Pajek will throw an error.
+4. Network → Acyclic Network → Create (Sub)Network → Main Paths → Global Search → Key-Route
+5. We will choose the Key Routes 1-10 as the parameter.
+6. Click on the Save button for Networks and save a .net file with the main path (call it "mainpath1.net".
+
+Once you have the .net file with the main path, import this file back into R:
+
+```{r}
+NET_MP1 = read_network(filename = "mainpath1.net")
+```
+
+Now that the main path is identified, save the list of papers contained within it (it will be saved as a TSV file.
+
+```{r}
+save_papers(NET_MP1, filename = "mainpath1_papers.tsv")
+```
+
+Alternatively, the save_papers function accepts a list of networks to save in a single list of papers. Example:
+
+```{r}
+save_papers(list(NET_MP1, NET_MP2), filename = "mainpath1+2_papers.tsv")
+```
+
