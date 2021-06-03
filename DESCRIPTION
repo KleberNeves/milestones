@@ -1,13 +1,13 @@
 Package: milestones
-Title: What the Package Does (One Line, Title Case)
+Title: Helper Functions to Find Milestones in Citation Data
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Kleber",
+           family = "Neves",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+           email = "kleber.na@gmail.com",
+           comment = c(ORCID = "0000-0001-9519-4909"))
+Description: This package contains a lot of functions to help in running methods to identify milestones in the history of discoveries in scientific articles, starting from the citation data (such as that obtained from Scopus or Web of Science).
+License: MIT License
 Encoding: UTF-8
 LazyData: true
