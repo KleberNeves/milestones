@@ -8,6 +8,10 @@ Authors@R:
            email = "kleber.na@gmail.com",
            comment = c(ORCID = "0000-0001-9519-4909"))
 Description: This package contains a lot of functions to help in running methods to identify milestones in the history of discoveries in scientific articles, starting from the citation data (such as that obtained from Scopus or Web of Science).
-License: MIT License
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
