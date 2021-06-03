@@ -50,7 +50,7 @@ In Pajek, the following steps will build and export the main path:
 Once you have the .net file with the main path, import this file back into R:
 
 ```{r}
-NET_MP1 = read_network(filename = "mainpath1.net")
+NET_MP1 = read_network(filename = "mainpath1.net", NET)
 ```
 
 Now that the main path is identified, save the list of papers contained within it (it will be saved as a TSV file.
