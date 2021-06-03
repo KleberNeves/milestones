@@ -30,7 +30,7 @@ G0 = read_biblio_data("G0_captopril.txt")
 
 Now run the function *make_wos_query*:
 ```{r}
-make_wos_query(G0)
+make_wos_query(G0, next_name = "G1")
 ```
 
 This will generate a bunch of text files in the working folder, which contain search queries that can be copied and pasted on Web of Science to obtain the papers cited by G0. They are divided in multiple files, depending on the size of the search, to avoid the length limits of the Web of Science interface.
@@ -39,7 +39,7 @@ Once you do the searches on Web of Science and download the records, you'd have 
 
 ```{r}
 G1 = read_biblio_data("G1_captopril_1.txt", "G1_captopril_2.txt", "G1_captopril_3.txt")
-make_wos_query(G1) # generates text files with the queries for G2
+make_wos_query(G1, next_name = "G2") # generates text files with the queries for G2
 ```
 
 Notice that Web of Science sometimes throws an error because the search is badly formatted. In this case, I recommend breaking the search query in two, repeatedly (like a binary search), until you find the problem. The culprit is usually a parenthesis, a quotation mark or some other strange character contained in the title of some document in the query.
