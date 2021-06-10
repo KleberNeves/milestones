@@ -56,12 +56,12 @@ NET_MP1 = read_network(filename = "mainpath1.net", NET)
 Now that the main path is identified, save the list of papers contained within it (it will be saved as a TSV file.
 
 ```{r}
-save_papers(NET_MP1, filename = "mainpath1_papers.tsv")
+save_papers_mp(NET_MP1, filename = "mainpath1_papers.tsv")
 ```
 
 Alternatively, the save_papers function accepts a list of networks to save in a single list of papers. Example:
 
 ```{r}
-save_papers(list(NET_MP1, NET_MP2), filename = "mainpath1+2_papers.tsv")
+save_papers_mp(list(NET_MP1, NET_MP2), filename = "mainpath1+2_papers.tsv")
 ```
 

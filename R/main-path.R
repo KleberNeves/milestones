@@ -38,11 +38,11 @@ save_network <- function (NET, filename) {
 #' @param NET The main path network, as an igraph object.
 #' @param output_path Path to a directory to save the main path files.
 #' @param M A bibliometrix M data frame.
-#' #' @return An bibliometrix data frame with only the main path nodes.
+#' @return An bibliometrix data frame with only the main path nodes.
 #' @importFrom magrittr %>%
 #' @importFrom utils write.table
 #' @export
-save_papers <- function (NET, output_path, M = NULL) {
+save_papers_mp <- function (NET, output_path, M = NULL) {
   igraph::write_graph(NET,
                       paste0(output_path, "/Citation Main Path.gml"),
                       format = "GML")

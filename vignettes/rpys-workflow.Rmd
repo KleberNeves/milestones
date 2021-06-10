@@ -33,19 +33,19 @@ First, it runs the RPYS proper - i.e. it build the histogram of years of cited r
 Then, for each peak year, it finds the top 1% most cited papers that year. These are returned as milestones. You can change this percentage to include more papers.
 
 ```{r}
-RPYS_MS = identify_rpys_milestones(M, alpha = 0.05, percentile = 1)
+RPYS_MS = identify_rpys_milestones(M)
 ```
 
 If it runs successfully, to save the list of milestones, use:
 
 ```{r}
-save_papers(RPYS_MS, filename = "rpys_papers.tsv")
+save_papers_rpys(RPYS_MS, filename = "rpys_papers.tsv")
 ```
 
 Alternatively, the save_papers function accepts a list of results to save in a single list of papers. Example:
 
 ```{r}
-save_papers(list(RPYS_MS1, RPYS_MS2), filename = "rpys1+2_papers.tsv")
+save_papers_rpys(list(RPYS_MS1, RPYS_MS2), filename = "rpys1+2_papers.tsv")
 ```
 
 You can directly access the list of papers through
