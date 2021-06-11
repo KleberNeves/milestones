@@ -40,7 +40,7 @@ This will generate a bunch of text files in the working folder, which contain se
 Once you do the searches on Web of Science and download the records, you'd have G1. If needed, you could obtain G2 by repeating the steps above. Notice that Web of Science only exports records in parts of 500, so if the search returns more results, you'll have multiple files. The *read_biblio_data* function can handle this, as shown below.
 
 ```{r}
-wos_records = system.file("extdata", "optogenetics-G1.txt", "optogenetics-G1-2.txt", package = "milestones", mustWork = T)
+wos_records = system.file("extdata", c("optogenetics-G1.txt", "optogenetics-G1-2.txt"), package = "milestones", mustWork = T)
 
 G1 = read_biblio_data(wos_records)
 make_wos_query(G1, next_name = "G2") # generates text files with the queries for G2
