@@ -19,7 +19,7 @@ build_network = function (M) {
 #' Saves a citation network in GML and also in a
 #' .net format readable by the Pajek software.
 #'
-#' @param M A bibliometrix M data frame.
+#' @param NET The igraph object to save.
 #' @param filename Where to save the files. Extensions will be appended.
 #' @return An igraph citation network.
 #' @export
@@ -38,7 +38,7 @@ save_network <- function (NET, filename) {
 #' (if given a bibliometric data frame).
 #'
 #' @param NET The main path network, as an igraph object.
-#' @param output_path Path to a directory to save the main path files.
+#' @param filename Filename to save the main path files (extensions will be added).
 #' @param M A bibliometrix M data frame.
 #' @return An bibliometrix data frame with only the main path nodes.
 #' @importFrom magrittr %>%
@@ -74,7 +74,7 @@ save_papers_mp <- function (NET, filename, M) {
 #' Code is adapted from function *read_net*, from Jonathan H. Morgan (2019)
 #' http://mrvar.fdv.uni-lj.si/pajek/R/RMorgan.htm
 #'
-#' @param fname The path to the Pajek exported file with the main path network.
+#' @param filename The Pajek exported file with the main path network.
 #' @param net The igraph full network.
 #' @return An igraph network with only the main path nodes.
 #' @export

@@ -7,9 +7,9 @@
 read_network(filename, net)
 }
 \arguments{
-\item{net}{The igraph full network.}
+\item{filename}{The Pajek exported file with the main path network.}
 
-\item{fname}{The path to the Pajek exported file with the main path network.}
+\item{net}{The igraph full network.}
 }
 \value{
 An igraph network with only the main path nodes.

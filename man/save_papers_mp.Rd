@@ -9,9 +9,9 @@ save_papers_mp(NET, filename, M)
 \arguments{
 \item{NET}{The main path network, as an igraph object.}
 
-\item{M}{A bibliometrix M data frame.}
+\item{filename}{Filename to save the main path files (extensions will be added).}
 
-\item{output_path}{Path to a directory to save the main path files.}
+\item{M}{A bibliometrix M data frame.}
 }
 \value{
 An bibliometrix data frame with only the main path nodes.

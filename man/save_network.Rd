@@ -7,9 +7,9 @@
 save_network(NET, filename)
 }
 \arguments{
-\item{M}{A bibliometrix M data frame.}
+\item{NET}{The igraph object to save.}
 
-\item{filnema}{Where to save the files. Extensions will be appended.}
+\item{filename}{Where to save the files. Extensions will be appended.}
 }
 \value{
 An igraph citation network.
