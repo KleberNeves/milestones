@@ -1,0 +1,88 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Boyden, ES
+   Zhang, F
+   Bamberg, E
+   Nagel, G
+   Deisseroth, K
+AF Boyden, ES
+   Zhang, F
+   Bamberg, E
+   Nagel, G
+   Deisseroth, K
+TI Millisecond-timescale, genetically targeted optical control of neural
+   activity
+SO NATURE NEUROSCIENCE
+LA English
+DT Article
+ID RAT BARREL CORTEX; REMOTE-CONTROL; LASER PHOTOSTIMULATION;
+   HIPPOCAMPAL-NEURONS; ION CHANNELS; MICROSTIMULATION; LIGHT;
+   CHLAMYDOMONAS; CIRCUITS; DEPENDENCE
+AB Temporally precise, noninvasive control of activity in well-defined neuronal populations is a long-sought goal of systems neuroscience. We adapted for this purpose the naturally occurring algal protein Channelrhodopsin-2, a rapidly gated light-sensitive cation channel, by using lentiviral gene delivery in combination with high-speed optical switching to photostimulate mammalian neurons. We demonstrate reliable, millisecond-timescale control of neuronal spiking, as well as control of excitatory and inhibitory synaptic transmission. This technology allows the use of light to alter neural processing at the level of single spikes and synaptic events, yielding a widely applicable tool for neuroscientists and biomedical engineers.
+C1 Stanford Univ, Dept Bioengn, Stanford, CA 94305 USA.
+   Max Planck Inst Biophys, Dept Biophys Chem, D-60438 Frankfurt, Germany.
+   Univ Frankfurt, Dept Biochem Chem & Pharmaceut, D-60439 Frankfurt, Germany.
+   Stanford Univ, Sch Med, Dept Psychiat & Behav Sci, Stanford, CA 94305 USA.
+RP Deisseroth, K (reprint author), Stanford Univ, Dept Bioengn, 318 Campus Dr W, Stanford, CA 94305 USA.
+EM deissero@stanford.edu
+OI Nagel, Georg/0000-0001-8174-8712
+CR Banghart M, 2004, NAT NEUROSCI, V7, P1381, DOI 10.1038/nn1356
+   Bi GQ, 1998, J NEUROSCI, V18, P10464
+   DALVA MB, 1994, SCIENCE, V265, P255, DOI 10.1126/science.7912852
+   Dantzker JL, 2000, NAT NEUROSCI, V3, P701, DOI 10.1038/76656
+   Deisseroth K, 2004, NEURON, V42, P535, DOI 10.1016/S0896-6273(04)00266-1
+   Ditterich J, 2003, NAT NEUROSCI, V6, P891, DOI 10.1038/nn1094
+   Dull T, 1998, J VIROL, V72, P8463
+   Graziano MSA, 2002, NEURON, V34, P841, DOI 10.1016/S0896-6273(02)00698-0
+   HARZ H, 1991, NATURE, V351, P489, DOI 10.1038/351489a0
+   Hirase H, 2002, J NEUROBIOL, V51, P237, DOI 10.1002/neu.10056
+   Ikegaya Y, 2004, SCIENCE, V304, P559, DOI 10.1126/science.1093173
+   KANDEL ER, 1961, J NEUROPHYSIOL, V24, P225
+   KATZ LC, 1994, J NEUROSCI METH, V54, P205, DOI 10.1016/0165-0270(94)90194-5
+   Kozloski J, 2001, SCIENCE, V293, P868, DOI 10.1126/science.293.5531.868
+   Lima SQ, 2005, CELL, V121, P141, DOI 10.1016/j.cell.2005.02.004
+   MAINEN ZF, 1995, SCIENCE, V268, P1503, DOI 10.1126/science.7770778
+   Mermelstein PG, 2000, J NEUROSCI, V20, P266, DOI 10.1523/JNEUROSCI.20-01-00266.2000
+   Moore T, 2003, NATURE, V421, P370, DOI 10.1038/nature01341
+   Nagel G, 2002, SCIENCE, V296, P2395, DOI 10.1126/science.1072068
+   Nagel G, 2003, P NATL ACAD SCI USA, V100, P13940, DOI 10.1073/pnas.1936192100
+   Pettit DL, 1999, J NEUROPHYSIOL, V81, P1424
+   Pouille F, 2004, NATURE, V429, P717, DOI 10.1038/nature02615
+   SALZMAN CD, 1990, NATURE, V346, P174, DOI 10.1038/346174a0
+   Schubert D, 2001, J NEUROSCI, V21, P3580, DOI 10.1523/JNEUROSCI.21-10-03580.2001
+   Shepherd GMG, 2003, NEURON, V38, P277, DOI 10.1016/S0896-6273(03)00152-1
+   Sineshchekov OA, 2002, P NATL ACAD SCI USA, V99, P8689, DOI 10.1073/pnas.122243399
+   Suzuki T, 2003, BIOCHEM BIOPH RES CO, V301, P711, DOI 10.1016/S0006-291X(02)03079-6
+   Yoshimura Y, 2005, NATURE, V433, P868, DOI 10.1038/nature03252
+   Zemelman BV, 2003, P NATL ACAD SCI USA, V100, P1352, DOI 10.1073/pnas.242738899
+   Zemelman BV, 2002, NEURON, V33, P15, DOI 10.1016/S0896-6273(01)00574-8
+NR 30
+TC 2250
+Z9 2314
+U1 30
+U2 516
+PU NATURE PUBLISHING GROUP
+PI NEW YORK
+PA 75 VARICK ST, 9TH FLR, NEW YORK, NY 10013-1917 USA
+SN 1097-6256
+EI 1546-1726
+J9 NAT NEUROSCI
+JI Nat. Neurosci.
+PD SEP
+PY 2005
+VL 8
+IS 9
+BP 1263
+EP 1268
+DI 10.1038/nn1525
+PG 6
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 958YJ
+UT WOS:000231483800028
+PM 16116447
+DA 2019-12-04
+ER
+
+EF

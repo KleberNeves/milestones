@@ -25,7 +25,9 @@ If you have data obtained from Web of Science, cited references are included, so
 First, read in your G0 data (an example dataset is available with this package).
 
 ```{r}
-G0 = read_biblio_data("G0_captopril.txt")
+wos_records = system.file("extdata", "optogenetics-G0.txt", package = "milestones", mustWork = T)
+
+G0 = read_biblio_data(wos_records)
 ```
 
 Now run the function *make_wos_query*:
@@ -38,7 +40,9 @@ This will generate a bunch of text files in the working folder, which contain se
 Once you do the searches on Web of Science and download the records, you'd have G1. If needed, you could obtain G2 by repeating the steps above. Notice that Web of Science only exports records in parts of 500, so if the search returns more results, you'll have multiple files. The *read_biblio_data* function can handle this, as shown below.
 
 ```{r}
-G1 = read_biblio_data("G1_captopril_1.txt", "G1_captopril_2.txt", "G1_captopril_3.txt")
+wos_records = system.file("extdata", "optogenetics-G1.txt", "optogenetics-G1-2.txt", package = "milestones", mustWork = T)
+
+G1 = read_biblio_data(wos_records)
 make_wos_query(G1, next_name = "G2") # generates text files with the queries for G2
 ```
 

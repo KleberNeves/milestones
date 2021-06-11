@@ -23,7 +23,9 @@ This vignette shows how to run the main path analysis for a dataset containing b
 The first step is to search for the terms on Web of Science. If you are conducting your own search, just export it as indicated in [this vignette](!...) from package *bibliometrix* (which is used under the hood to read the data). An example of such data is available in this package, so you can just import it as indicated below. This data corresponds for a search of "captopril + hypertension".
 
 ```{r}
-M = read_biblio_data("G0_captopril.txt")
+wos_records = system.file("extdata", "optogenetics.txt", package = "milestones", mustWork = T)
+
+M = read_biblio_data(wos_records)
 ```
 
 Once the data is imported, the next step is to run the RPYS algorithm to obtain the milestones. This has a few steps, which can be configured through the arguments to the function.

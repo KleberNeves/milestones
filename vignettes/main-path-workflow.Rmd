@@ -23,7 +23,9 @@ This vignette shows how to run the main path analysis for a dataset containing b
 The first step is to search for the terms on Web of Science. If you are conducting your own search, just export it as indicated in [this vignette](!...) from package *bibliometrix* (which is used under the hood to read the data). An example of such data is available in this package, so you can just import it as indicated below. This data corresponds for a search of "captopril + hypertension".
 
 ```{r}
-M = read_biblio_data("G0_captopril.txt")
+wos_records = system.file("extdata", "optogenetics.txt", package = "milestones", mustWork = T)
+
+M = read_biblio_data(wos_records)
 ```
 
 Once the data is imported, the next step is building a network. The main path algorithm runs on the citation network. This next step has many substeps and it might go wrong. For the main path algorithm to run, it needs the network not to have any cycles (i.e. if paper A cites paper B, paper B cannot cite paper A). The build_network function will attempt to fix this if it occurs, but it is not guaranteed (there might be longer cycles that go undetected - e.g. A cites B, B cites C, C cites D, D cites A). It will warn you if it can't remove all cycles, however, if it fails, there's not much that can be done at this time.

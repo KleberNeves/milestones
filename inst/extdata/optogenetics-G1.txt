@@ -1,0 +1,1139 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lima, SQ
+   Miesenbock, G
+AF Lima, SQ
+   Miesenbock, G
+TI Remote control of behavior through genetically targeted photostimulation
+   of neurons
+SO CELL
+LA English
+DT Article
+ID DROSOPHILA NERVOUS-SYSTEM; ION CHANNELS; GIANT-FIBER; CAPSAICIN
+   RECEPTOR; IDENTIFIED NEURONS; MAMMALIAN NEURONS; EXPRESSION;
+   MELANOGASTER; DOPAMINE; MUTATIONS
+AB Optically gated ion channels were expressed in circumscribed groups of neurons in the Drosophila CNS so that broad illumination of flies evoked action potentials only in genetically designated target cells. Flies harboring the "phototriggers" in different sets of neurons responded to laser light with behaviors specific to the sites of phototrigger expression. Photostimulation of neurons in the giant fiber system elicited the characteristic escape behaviors of jumping, wing beating, and flight; photostimulation of dopaminergic neurons caused changes in locomotor activity and locomotor patterns. These responses reflected the direct optical activation of central neuronal targets rather than confounding visual input, as they persisted unabated in carriers of a mutation that eliminates phototransduction. Encodable phototriggers provide noninvasive control interfaces for studying the connectivity and dynamics of neural circuits, for assigning behavioral content to neurons and their activity patterns, and, potentially, for restoring information corrupted by injury or disease.
+C1 Yale Univ, Sch Med, Dept Cell Biol, New Haven, CT 06520 USA.
+RP Miesenbock, G (reprint author), Yale Univ, Sch Med, Dept Cell Biol, 333 Cedar St, New Haven, CT 06520 USA.
+EM gero.miesenboeck@yale.edu
+OI Lima, Susana/0000-0003-2446-9869; Miesenboeck, Gero/0000-0003-2940-3228
+CR Allen MJ, 1999, J NEUROSCI, V19, P9374
+   ARBUTHNOTT GW, 1975, EXP NEUROL, V47, P162, DOI 10.1016/0014-4886(75)90244-7
+   Bainton RJ, 2000, CURR BIOL, V10, P187, DOI 10.1016/S0960-9822(00)00336-5
+   Banghart M, 2004, NAT NEUROSCI, V7, P1381, DOI 10.1038/nn1356
+   BLOOMQUIST BT, 1988, CELL, V54, P723, DOI 10.1016/S0092-8674(88)80017-5
+   BRAKE AJ, 1994, NATURE, V371, P519, DOI 10.1038/371519a0
+   BROADIE KS, 2000, DROSOPHILA PROTOCOLS, P273
+   Broughton SJ, 2004, CURR BIOL, V14, pR290, DOI 10.1016/j.cub.2004.03.037
+   BUCHNER E, 1991, J NEUROGENET, V7, P153, DOI 10.3109/01677069109167432
+   BUDNIK V, 1988, J COMP NEUROL, V268, P400, DOI 10.1002/cne.902680309
+   Burrows M., 1996, NEUROBIOLOGY INSECT
+   CALLAWAY EM, 1993, P NATL ACAD SCI USA, V90, P7661, DOI 10.1073/pnas.90.16.7661
+   Carlson SD, 2000, ANNU REV ENTOMOL, V45, P151, DOI 10.1146/annurev.ento.45.1.151
+   Caterina MJ, 1997, NATURE, V389, P816, DOI 10.1038/39807
+   Chen S, 2002, P NATL ACAD SCI USA, V99, P5664, DOI 10.1073/pnas.082102599
+   FARBER IC, 1983, SCIENCE, V222, P1025, DOI 10.1126/science.6648515
+   Feany MB, 2000, NATURE, V404, P394, DOI 10.1038/35006074
+   FORK RL, 1971, SCIENCE, V171, P907, DOI 10.1126/science.171.3974.907
+   Friggi-Grelin F, 2003, J NEUROBIOL, V54, P618, DOI 10.1002/neu.10185
+   GALVANI L, 1791, DEVIRIBUS ELECT MOTU
+   Hendricks JC, 2000, NEURON, V25, P129, DOI 10.1016/S0896-6273(00)80877-6
+   Hoang B, 2001, DEV BIOL, V229, P55, DOI 10.1006/dbio.2000.9983
+   HOTTA Y, 1970, P NATL ACAD SCI USA, V67, P1156, DOI 10.1073/pnas.67.3.1156
+   Jacobs K, 2000, DEVELOPMENT, V127, P5203
+   Johns DC, 1999, J NEUROSCI, V19, P1691
+   KACZMAREK LK, 1987, NEUROMODULATION BIOC
+   KAPLAN JH, 1978, BIOCHEMISTRY-US, V17, P1929, DOI 10.1021/bi00603a020
+   Kitamoto T, 2001, J NEUROBIOL, V47, P81, DOI 10.1002/neu.1018
+   KOTO M, 1981, BRAIN RES, V221, P213, DOI 10.1016/0006-8993(81)90772-1
+   KUPFERMANN I, 1978, BEHAV BRAIN SCI, V1, P3, DOI 10.1017/S0140525X00059057
+   Kupfermann I, 2001, CURR OPIN NEUROBIOL, V11, P673, DOI 10.1016/S0959-4388(01)00267-7
+   Lechner HAE, 2002, J NEUROSCI, V22, P5287
+   LIN DM, 1994, NEURON, V13, P507, DOI 10.1016/0896-6273(94)90022-1
+   Littleton JT, 2000, NEURON, V26, P35, DOI 10.1016/S0896-6273(00)81135-6
+   Liu L, 1999, NATURE, V400, P753, DOI 10.1038/23456
+   Manseau L, 1997, DEV DYNAM, V209, P310, DOI 10.1002/(SICI)1097-0177(199707)209:3<310::AID-AJA6>3.0.CO;2-L
+   McClung C, 1998, CURR BIOL, V8, P109, DOI 10.1016/S0960-9822(98)70041-7
+   MCCRAY JA, 1989, ANNU REV BIOPHYS BIO, V18, P239, DOI 10.1146/annurev.bb.18.060189.001323
+   MCKENNA M, 1989, P NATL ACAD SCI USA, V86, P8118, DOI 10.1073/pnas.86.20.8118
+   Miesenbock G, 2004, CURR OPIN NEUROBIOL, V14, P395, DOI 10.1016/j.conb.2004.05.004
+   Nakayama S, 1997, MOL GEN GENET, V254, P449, DOI 10.1007/s004380050438
+   Nicola SM, 2000, ANNU REV NEUROSCI, V23, P185, DOI 10.1146/annurev.neuro.23.1.185
+   PAK WL, 1970, NATURE, V227, P518, DOI 10.1038/227518b0
+   QUINN WG, 1984, ANNU REV NEUROSCI, V7, P67, DOI 10.1146/annurev.ne.07.030184.000435
+   RITZ MC, 1987, SCIENCE, V237, P1219, DOI 10.1126/science.2820058
+   Schultz W, 2002, NEURON, V36, P241, DOI 10.1016/S0896-6273(02)00967-4
+   Schwaerzel M, 2003, J NEUROSCI, V23, P10495
+   SELVERSTON AI, 1985, ANNU REV PHYSIOL, V47, P29
+   Shaw PJ, 2000, SCIENCE, V287, P1834, DOI 10.1126/science.287.5459.1834
+   Slimko EM, 2002, J NEUROSCI, V22, P7373
+   Sun BH, 1999, P NATL ACAD SCI USA, V96, P10438, DOI 10.1073/pnas.96.18.10438
+   SWEENEY ST, 1995, NEURON, V14, P341, DOI 10.1016/0896-6273(95)90290-2
+   TANOUYE MA, 1980, J NEUROPHYSIOL, V44, P405
+   TEMPEL BL, 1984, P NATL ACAD SCI-BIOL, V81, P3577, DOI 10.1073/pnas.81.11.3577
+   THASTRUP O, 1990, P NATL ACAD SCI USA, V87, P2466, DOI 10.1073/pnas.87.7.2466
+   THOMAS JB, 1982, NATURE, V298, P650, DOI 10.1038/298650a0
+   THOMAS JB, 1984, J NEUROSCI, V4, P530
+   Tobin DM, 2002, NEURON, V35, P307, DOI 10.1016/S0896-6273(02)00757-2
+   Tominaga M, 1998, NEURON, V21, P531, DOI 10.1016/S0896-6273(00)80564-4
+   Trimarchi JR, 1999, INT REV NEUROBIOL, V43, P241, DOI 10.1016/S0074-7742(08)60548-6
+   TRIMARCHI JR, 1995, J COMP PHYSIOL A, V176, P355, DOI 10.1007/BF00219061
+   VALERA S, 1994, NATURE, V371, P516, DOI 10.1038/371516a0
+   WIERSMA CAG, 1964, COMP BIOCHEM PHYSIOL, V12, P509, DOI 10.1016/0010-406X(64)90153-7
+   Wyman R.J., 1984, P133
+   Yasuyama K, 1999, MICROSC RES TECHNIQ, V45, P65, DOI 10.1002/(SICI)1097-0029(19990415)45:2<65::AID-JEMT2>3.0.CO;2-0
+   Yellman C, 1997, P NATL ACAD SCI USA, V94, P4131, DOI 10.1073/pnas.94.8.4131
+   Zemelman BV, 2003, P NATL ACAD SCI USA, V100, P1352, DOI 10.1073/pnas.242738899
+   Zemelman BV, 2002, NEURON, V33, P15, DOI 10.1016/S0896-6273(01)00574-8
+   Zemelman BV, 2001, CURR OPIN NEUROBIOL, V11, P409, DOI 10.1016/S0959-4388(00)00227-0
+NR 69
+TC 334
+Z9 342
+U1 2
+U2 64
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+SN 0092-8674
+EI 1097-4172
+J9 CELL
+JI Cell
+PD APR 8
+PY 2005
+VL 121
+IS 1
+BP 141
+EP 152
+DI 10.1016/j.cell.2005.02.004
+PG 12
+WC Biochemistry & Molecular Biology; Cell Biology
+SC Biochemistry & Molecular Biology; Cell Biology
+GA 915YU
+UT WOS:000228348500016
+PM 15820685
+OA Bronze
+DA 2019-12-06
+ER
+
+PT J
+AU Yoshimura, Y
+   Dantzker, JLM
+   Callaway, EM
+AF Yoshimura, Y
+   Dantzker, JLM
+   Callaway, EM
+TI Excitatory cortical neurons form fine-scale functional networks
+SO NATURE
+LA English
+DT Article
+ID PRIMARY VISUAL-CORTEX; ORIENTATION SELECTIVITY; INHIBITORY NEURONS;
+   RECEPTIVE-FIELDS; PYRAMIDAL CELLS; RAT; CONNECTIONS; CIRCUITS; LAYERS;
+   INTERNEURONS
+AB The specificity of cortical neuron connections creates columns of functionally similar neurons spanning from the pia to the white matter(1-6). Here we investigate whether there is an additional, finer level of specificity that creates subnetworks of excitatory neurons within functional columns. We tested for fine-scale specificity of connections to cortical layer 2/3 pyramidal neurons in rat visual cortex by using cross-correlation analyses of synaptic currents evoked by photostimulation. Recording simultaneously from adjacent layer 2/3 pyramidal cells, we find that when they are connected to each other (20% of all recorded pairs) they share common input from layer 4 and within layer 2/3. When adjacent layer 2/3 neurons are not connected to each other, they share very little ( if any) common excitatory input from layers 4 and 2/3. In contrast, all layer 2/3 neurons share common excitatory input from layer 5 and inhibitory input from layers 2/3 and 4, regardless of whether they are connected to each other. Thus, excitatory connections from layer 4 to layer 2/3 and within layer 2/3 form fine-scale assemblies of selectively interconnected neurons; inhibitory connections and excitatory connections from layer 5 link neurons across these fine-scale subnetworks. Relatively independent subnetworks of excitatory neurons are therefore embedded within the larger-scale functional architecture; this allows neighbouring neurons to convey information more independently than suggested by previous descriptions of cortical circuitry.
+C1 Salk Inst Biol Studies, Syst Neurobiol Labs, La Jolla, CA 92037 USA.
+RP Callaway, EM (reprint author), Salk Inst Biol Studies, Syst Neurobiol Labs, 10010 N Torrey Pines Rd, La Jolla, CA 92037 USA.
+EM callaway@salk.edu
+RI Callaway, Edward/D-4336-2011
+OI Callaway, Edward/0000-0002-6366-5267
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [R01 MH063912]
+CR AERTSEN AMHJ, 1989, J NEUROPHYSIOL, V61, P900
+   AGMON A, 1992, J NEUROSCI, V12, P319
+   Alonso JM, 2001, J NEUROSCI, V21, P4002, DOI 10.1523/JNEUROSCI.21-11-04002.2001
+   Binzegger T, 2004, J NEUROSCI, V24, P8441, DOI 10.1523/JNEUROSCI.1400-04.2004
+   BRAITENBERG V, 1991, ANATOMY CORTEX
+   Callaway EM, 1998, ANNU REV NEUROSCI, V21, P47, DOI 10.1146/annurev.neuro.21.1.47
+   CHAPMAN B, 1991, J NEUROSCI, V11, P1347
+   Dantzker JL, 2000, NAT NEUROSCI, V3, P701, DOI 10.1038/76656
+   DeAngelis GC, 1999, J NEUROSCI, V19, P4046
+   Ferster D, 1996, NATURE, V380, P249, DOI 10.1038/380249a0
+   Gibson JR, 1999, NATURE, V402, P75
+   Girman SV, 1999, J NEUROPHYSIOL, V82, P301
+   Gonchar Y, 2003, J NEUROSCI, V23, P10904
+   Gonchar Y, 1999, CEREB CORTEX, V9, P683, DOI 10.1093/cercor/9.7.683
+   Hebb D., 1949, ORG BEHAV
+   HELLWIG B, 1994, BIOL CYBERN, V71, P1
+   Hellwig B, 2000, BIOL CYBERN, V82, P111, DOI 10.1007/PL00007964
+   HUBEL DH, 1962, J PHYSIOL-LONDON, V160, P106, DOI 10.1113/jphysiol.1962.sp006837
+   Katz LC, 1996, SCIENCE, V274, P1133, DOI 10.1126/science.274.5290.1133
+   Kawaguchi Y, 2002, J NEUROCYTOL, V31, P277, DOI 10.1023/A:1024126110356
+   Meskenaite V, 1997, J COMP NEUROL, V379, P113
+   Mooser F, 2004, NAT NEUROSCI, V7, P872, DOI 10.1038/nn1287
+   Mountcastle VB, 2003, CEREB CORTEX, V13, P2, DOI 10.1093/cercor/13.1.2
+   Sawatari A, 2000, NEURON, V25, P459, DOI 10.1016/S0896-6273(00)80908-3
+   Schubert D, 2003, J NEUROSCI, V23, P2961
+   Staiger JF, 2002, EUR J NEUROSCI, V16, P11, DOI 10.1046/j.1460-9568.2002.02048.x
+   Sur M, 2002, CURR BIOL, V12, pR168, DOI 10.1016/S0960-9822(02)00733-9
+   Thomson AM, 2002, CEREB CORTEX, V12, P936, DOI 10.1093/cercor/12.9.936
+   Thomson AM, 2002, J NEUROCYTOL, V31, P239, DOI 10.1023/A:1024117908539
+   Yoshimura Y, 2003, J NEUROSCI, V23, P6557
+NR 30
+TC 385
+Z9 391
+U1 3
+U2 29
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD FEB 24
+PY 2005
+VL 433
+IS 7028
+BP 868
+EP 873
+DI 10.1038/nature03252
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 899VT
+UT WOS:000227174600043
+PM 15729343
+DA 2019-12-06
+ER
+
+PT J
+AU Banghart, M
+   Borges, K
+   Isacoff, E
+   Trauner, D
+   Kramer, RH
+AF Banghart, M
+   Borges, K
+   Isacoff, E
+   Trauner, D
+   Kramer, RH
+TI Light-activated ion channels for remote control of neuronal firing
+SO NATURE NEUROSCIENCE
+LA English
+DT Article
+ID GATED POTASSIUM CHANNELS; K+-CHANNELS; MAMMALIAN NEURONS; INACTIVATION;
+   MUTATIONS; PHOTOSTIMULATION; MECHANISMS; EXPRESSION; CIRCUITS; BLOCKADE
+AB Neurons have ion channels that are directly gated by voltage, ligands and temperature but not by light. Using structure-based design, we have developed a new chemical gate that confers light sensitivity to an ion channel. The gate includes a functional group for selective conjugation to an engineered K+ channel, a pore blocker and a photoisomerizable azobenzene. Long-wavelength light drives the azobenzene moiety into its extended trans configuration, allowing the blocker to reach the pore. Short-wavelength light generates the shorter cis configuration, retracting the blocker and allowing conduction. Exogenous expression of these channels in rat hippocampal neurons, followed by chemical modification with the photoswitchable gate, enables different wavelengths of light to switch action potential firing on and off. These synthetic photoisomerizable azobenzene-regulated K+ (SPARK) channels allow rapid, precise and reversible control over neuronal firing, with potential applications for dissecting neural circuits and controlling activity downstream from sites of neural damage or degeneration.
+C1 Univ Calif Berkeley, Dept Mol & Cell Biol, Berkeley, CA 94720 USA.
+   Univ Calif Berkeley, Dept Chem, Berkeley, CA 94720 USA.
+RP Trauner, D (reprint author), Univ Calif Berkeley, Dept Mol & Cell Biol, 229 Stanley Hall, Berkeley, CA 94720 USA.
+EM trauner@cchem.berkeley.edu; rhkramer@berkeley.edu
+OI Banghart, Matthew/0000-0001-7248-2932
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [R01 MH060711]
+CR Blaustein RO, 2000, NAT STRUCT BIOL, V7, P309
+   Blaustein RO, 2002, J GEN PHYSIOL, V120, P203, DOI 10.1085/jgp.20028613
+   CALLAWAY EM, 1994, CURR BIOL, V4, P1010, DOI 10.1016/S0960-9822(00)00228-1
+   CHOI KL, 1991, P NATL ACAD SCI USA, V88, P5092, DOI 10.1073/pnas.88.12.5092
+   Djurisic M, 2003, METHOD ENZYMOL, V361, P423
+   Doyle DA, 1998, SCIENCE, V280, P69, DOI 10.1126/science.280.5360.69
+   Flint DG, 2002, CHEM BIOL, V9, P391, DOI 10.1016/S1074-5521(02)00109-6
+   Griffin BA, 1998, SCIENCE, V281, P269, DOI 10.1126/science.281.5374.269
+   Gu C, 2003, SCIENCE, V301, P646, DOI 10.1126/science.1086998
+   HEGINBOTHAM L, 1992, NEURON, V8, P483, DOI 10.1016/0896-6273(92)90276-J
+   HOSHI T, 1990, SCIENCE, V250, P533, DOI 10.1126/science.2122519
+   James DA, 2001, PROTEIN ENG, V14, P983, DOI 10.1093/protein/14.12.983
+   Jiang YX, 2003, NATURE, V423, P33, DOI 10.1038/nature01580
+   Jiang YX, 2002, NATURE, V417, P523, DOI 10.1038/417523a
+   Johns DC, 1999, J NEUROSCI, V19, P1691
+   KARSCHIN A, 1991, FEBS LETT, V278, P229, DOI 10.1016/0014-5793(91)80123-K
+   KATZ LC, 1994, J NEUROSCI METH, V54, P205, DOI 10.1016/0165-0270(94)90194-5
+   KNOLL H, 2004, CRC HDB ORGANIC PHOT, V2
+   Lechner HAE, 2002, J NEUROSCI, V22, P5287
+   LESTER HA, 1980, J GEN PHYSIOL, V75, P207, DOI 10.1085/jgp.75.2.207
+   LOPEZ GA, 1991, NEURON, V7, P327, DOI 10.1016/0896-6273(91)90271-Z
+   LOPEZBARNEO J, 1993, RECEPTOR CHANNEL, V1, P61
+   MACKINNON R, 1990, SCIENCE, V250, P276, DOI 10.1126/science.2218530
+   Nerbonne JM, 1996, CURR OPIN NEUROBIOL, V6, P379, DOI 10.1016/S0959-4388(96)80123-1
+   Nitabach MN, 2002, CELL, V109, P485, DOI 10.1016/S0092-8674(02)00737-7
+   SIGWORTH FJ, 1994, Q REV BIOPHYS, V27, P1, DOI 10.1017/S0033583500002894
+   Slimko EM, 2002, J NEUROSCI, V22, P7373
+   Sutherland ML, 1999, P NATL ACAD SCI USA, V96, P2451, DOI 10.1073/pnas.96.5.2451
+   White BH, 2001, NEURON, V31, P699, DOI 10.1016/S0896-6273(01)00415-9
+   Yellen G, 2002, NATURE, V419, P35, DOI 10.1038/nature00978
+   Zemelman BV, 2002, NEURON, V33, P15, DOI 10.1016/S0896-6273(01)00574-8
+NR 31
+TC 460
+Z9 470
+U1 3
+U2 141
+PU NATURE PUBLISHING GROUP
+PI NEW YORK
+PA 75 VARICK ST, 9TH FLR, NEW YORK, NY 10013-1917 USA
+SN 1097-6256
+EI 1546-1726
+J9 NAT NEUROSCI
+JI Nat. Neurosci.
+PD DEC
+PY 2004
+VL 7
+IS 12
+BP 1381
+EP 1386
+DI 10.1038/nn1356
+PG 6
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 874MG
+UT WOS:000225353900020
+PM 15558062
+OA Green Accepted
+DA 2019-12-06
+ER
+
+PT J
+AU Pouille, F
+   Scanziani, M
+AF Pouille, F
+   Scanziani, M
+TI Routing of spike series by dynamic circuits in the hippocampus
+SO NATURE
+LA English
+DT Article
+ID RAT HIPPOCAMPUS; PYRAMIDAL CELLS; SYNAPTIC ORGANIZATION; TOTAL NUMBER;
+   CA1 AREA; INTERNEURONS; NEURONS; INHIBITION; SYNAPSES; RECEPTOR
+AB Recurrent inhibitory loops are simple neuronal circuits found in the central nervous system, yet little is known about the physiological rules governing their activity. Here we use simultaneous somatic and dendritic recordings in rat hippocampal slices to show that during a series of action potentials in pyramidal cells recurrent inhibition rapidly shifts from their soma to the apical dendrites. Two distinct inhibitory circuits are sequentially recruited to produce this shift: one, time-locked with submillisecond precision to the onset of the action potential series, transiently inhibits the somatic and perisomatic regions of pyramidal cells; the other, activated in proportion to the rate of action potentials in the series, durably inhibits the distal apical dendrites. These two operating modes result from the synergy between pre- and postsynaptic properties of excitatory synapses onto recurrent inhibitory neurons with distinct projection patterns. Thus, the onset of a series of action potentials and the rate of action potentials in the series are selectively captured and transformed into different spatial patterns of recurrent inhibition.
+C1 Univ Calif San Diego, Neurobiol Sect, Div Biol Sci, La Jolla, CA 92093 USA.
+RP Scanziani, M (reprint author), Univ Calif San Diego, Neurobiol Sect, Div Biol Sci, 9500 Gilman Dr, La Jolla, CA 92093 USA.
+EM massimo@ucsd.edu
+CR ADRIAN E, 1928, BASIS SENSATION ACTI
+   ALGER BE, 1982, J PHYSIOL-LONDON, V328, P105, DOI 10.1113/jphysiol.1982.sp014255
+   Ali AB, 1998, J PHYSIOL-LONDON, V507, P201, DOI 10.1111/j.1469-7793.1998.201bu.x
+   Ali AB, 1998, J PHYSIOL-LONDON, V507, P185, DOI 10.1111/j.1469-7793.1998.185bu.x
+   ANDERSEN P, 1963, NATURE, V198, P540, DOI 10.1038/198540a0
+   Arai AC, 2002, J PHARMACOL EXP THER, V303, P1075, DOI 10.1124/jpet.102.040360
+   Banks MI, 2000, NEURON, V25, P449, DOI 10.1016/S0896-6273(00)80907-1
+   Beierlein M, 2003, J NEUROPHYSIOL, V90, P2987, DOI 10.1152/jn.00283.2003
+   Buhl EH, 1996, HIPPOCAMPUS, V6, P294
+   Dayan P., 2001, THEORETICAL NEUROSCI
+   DINGLEDINE R, 1980, BRAIN RES, V185, P277, DOI 10.1016/0006-8993(80)91068-9
+   Freund TF, 1996, HIPPOCAMPUS, V6, P347, DOI 10.1002/(SICI)1098-1063(1996)6:4<347::AID-HIPO1>3.0.CO;2-I
+   Fricker D, 2000, NEURON, V28, P559, DOI 10.1016/S0896-6273(00)00133-1
+   Geiger JRP, 1997, NEURON, V18, P1009, DOI 10.1016/S0896-6273(00)80339-6
+   Gulyas AI, 1999, J NEUROSCI, V19, P10082
+   KANDEL ER, 1961, J NEUROPHYSIOL, V24, P225
+   Klausberger T, 2003, NATURE, V421, P844, DOI 10.1038/nature01374
+   Losonczy A, 2002, J PHYSIOL-LONDON, V542, P193, DOI 10.1113/jphysiol.2002.020024
+   MACCAFERRI G, 1995, NEURON, V15, P137, DOI 10.1016/0896-6273(95)90071-3
+   Megias M, 2001, NEUROSCIENCE, V102, P527, DOI 10.1016/S0306-4522(00)00496-6
+   OKEEFE J, 1993, HIPPOCAMPUS, V3, P317, DOI 10.1002/hipo.450030307
+   PEARCE RA, 1993, NEURON, V10, P189, DOI 10.1016/0896-6273(93)90310-N
+   Pouille F, 2001, SCIENCE, V293, P1159, DOI 10.1126/science.1060342
+   Rieke F, 1997, SPIKES EXPLORING NEU
+   Scanziani M, 1998, P NATL ACAD SCI USA, V95, P12004, DOI 10.1073/pnas.95.20.12004
+   Shigemoto R, 1996, NATURE, V381, P523, DOI 10.1038/381523a0
+   Somogyi P, 1998, BRAIN RES REV, V26, P113, DOI 10.1016/S0165-0173(97)00061-1
+   SPRUSTON N, 1993, J NEUROPHYSIOL, V70, P781
+   SPRUSTON N, 1995, SCIENCE, V268, P297, DOI 10.1126/science.7716524
+   STUART GJ, 1993, PFLUG ARCH EUR J PHY, V423, P511, DOI 10.1007/BF00374949
+   Toth K, 2000, J NEUROSCI, V20, P8279, DOI 10.1523/JNEUROSCI.20-22-08279.2000
+NR 31
+TC 261
+Z9 263
+U1 0
+U2 7
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD JUN 17
+PY 2004
+VL 429
+IS 6993
+BP 717
+EP 723
+DI 10.1038/nature02615
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 829OS
+UT WOS:000222059900028
+PM 15170216
+DA 2019-12-06
+ER
+
+PT J
+AU Deisseroth, K
+   Singla, S
+   Toda, H
+   Monje, M
+   Palmer, TD
+   Malenka, RC
+AF Deisseroth, K
+   Singla, S
+   Toda, H
+   Monje, M
+   Palmer, TD
+   Malenka, RC
+TI Excitation-neurogenesis coupling in adult neural stem/progenitor cells
+SO NEURON
+LA English
+DT Article
+ID LONG-TERM POTENTIATION; CENTRAL-NERVOUS-SYSTEM; RAT DENTATE GYRUS;
+   STEM-CELLS; OLFACTORY-BULB; HIPPOCAMPAL NEUROGENESIS; EXTRACELLULAR
+   POTASSIUM; SYNAPTIC-TRANSMISSION; CREB PHOSPHORYLATION; SUBVENTRICULAR
+   ZONE
+AB A wide variety of in vivo manipulations influence neurogenesis in the adult hippocampus. It is not known, however, if adult neural stem/progenitor cells (NPCs) can intrinsically sense excitatory neural activity and thereby implement a direct coupling between excitation and neurogenesis. Moreover, the theoretical significance of activity-dependent neurogenesis in hippocampal-type memory processing networks has not been explored. Here we demonstrate that excitatory stimuli act directly on adult hippocampal NPCs to favor neuron production. The excitation is sensed via Ca(v)1.2/ 1.3 (L-type) Call channels and NMDA receptors on the proliferating precursors. Excitation through this pathway acts to inhibit expression of the glial fate genes Hes1 and Id2 and increase expression of NeuroD, a positive regulator of neuronal differentiation. These activity-sensing properties of the adult NPCs, when applied as an "excitation-neurogenesis coupling rule" within a Hebbian neural network, predict significant advantages for both the temporary storage and the clearance of memories.
+C1 Stanford Univ, Sch Med, Nancy Pritzker Lab, Dept Psychiat & Behav Sci, Stanford, CA 94305 USA.
+   Stanford Univ, Sch Med, Dept Neurosurg, Stanford, CA 94305 USA.
+RP Deisseroth, K (reprint author), Stanford Univ, Sch Med, Nancy Pritzker Lab, Dept Psychiat & Behav Sci, Stanford, CA 94305 USA.
+OI Toda, Hiroki/0000-0002-1596-4131
+CR Alvarez-Buylla A, 2002, BRAIN RES BULL, V57, P751, DOI 10.1016/S0361-9230(01)00770-5
+   Alvarez-Buylla A, 2002, J NEUROSCI, V22, P629, DOI 10.1523/JNEUROSCI.22-03-00629.2002
+   ALVAREZBUYLLA A, 1990, SCIENCE, V249, P1444, DOI 10.1126/science.1698312
+   Arvidsson A, 2001, EUR J NEUROSCI, V14, P10, DOI 10.1046/j.0953-816x.2001.01611.x
+   Bear Mark F., 1994, Current Opinion in Neurobiology, V4, P389, DOI 10.1016/0959-4388(94)90101-5
+   Bjorklund A, 2000, NAT NEUROSCI, V3, P537, DOI 10.1038/75705
+   Brown J, 2003, EUR J NEUROSCI, V17, P2042, DOI 10.1046/j.1460-9568.2003.02647.x
+   Cai L, 2000, DEVELOPMENT, V127, P3021
+   Cameron HA, 1998, CURR OPIN NEUROBIOL, V8, P677, DOI 10.1016/S0959-4388(98)80099-8
+   CAMERON HA, 1995, J NEUROSCI, V15, P4687
+   Cau E, 2000, DEVELOPMENT, V127, P2323
+   Cau E, 2002, DEVELOPMENT, V129, P1871
+   Cecchi GA, 2001, J COMPUT NEUROSCI, V11, P175, DOI 10.1023/A:1012849801892
+   Chambers RA, 2004, NEUROPSYCHOPHARMACOL, V29, P747, DOI 10.1038/sj.npp.1300358
+   CLAIBORNE BJ, 1990, J COMP NEUROL, V302, P206, DOI 10.1002/cne.903020203
+   Deisseroth K, 2003, CURR OPIN NEUROBIOL, V13, P354, DOI 10.1016/S0959-4388(03)00076-X
+   Deisseroth K, 1996, NEURON, V16, P89, DOI 10.1016/S0896-6273(00)80026-4
+   Deisseroth K, 1998, NATURE, V392, P198, DOI 10.1038/32448
+   Feng RB, 2001, NEURON, V32, P911, DOI 10.1016/S0896-6273(01)00523-2
+   Filippov V, 2003, MOL CELL NEUROSCI, V23, P373, DOI 10.1016/S1044-7431(03)00060-5
+   GARDNERMEDWIN AR, 1983, J PHYSIOL-LONDON, V335, P375, DOI 10.1113/jphysiol.1983.sp014540
+   Gould E, 2000, BIOL PSYCHIAT, V48, P715, DOI 10.1016/S0006-3223(00)01021-0
+   Gould E, 2001, P NATL ACAD SCI USA, V98, P10910, DOI 10.1073/pnas.181354698
+   Graham B, 1999, NEURAL COMPUT, V11, P117, DOI 10.1162/089976699300016845
+   HOPFIELD JJ, 1986, SCIENCE, V233, P625, DOI 10.1126/science.3755256
+   JAN YN, 1993, CELL, V75, P827, DOI 10.1016/0092-8674(93)90525-U
+   JEFFERYS JGR, 1995, PHYSIOL REV, V75, P689
+   Jinnah HA, 2000, MOVEMENT DISORD, V15, P542, DOI 10.1002/1531-8257(200005)15:3<542::AID-MDS1019>3.0.CO;2-2
+   Kandel ER, 2001, SCIENCE, V294, P1030, DOI 10.1126/science.1067020
+   Kempermann G, 2003, DEVELOPMENT, V130, P391, DOI 10.1242/dev.00203
+   Kokaia Z, 2003, CURR OPIN NEUROBIOL, V13, P127, DOI 10.1016/S0959-4388(03)00017-5
+   Krystal JH, 2003, PSYCHOPHARMACOLOGY, V169, P215, DOI 10.1007/s00213-003-1582-z
+   Liu JL, 1998, J NEUROSCI, V18, P7768
+   LONGO VG, 1988, PHARMACOL BIOCHEM BE, V29, P785, DOI 10.1016/0091-3057(88)90207-9
+   Louissaint A, 2002, NEURON, V34, P945, DOI 10.1016/S0896-6273(02)00722-5
+   Madsen TM, 2000, BIOL PSYCHIAT, V47, P1043, DOI 10.1016/S0006-3223(00)00228-6
+   Malberg JE, 2000, J NEUROSCI, V20, P9104
+   MALENKA RC, 1981, SCIENCE, V214, P339, DOI 10.1126/science.7280695
+   Malenka RC, 1999, SCIENCE, V285, P1870, DOI 10.1126/science.285.5435.1870
+   Mao ZX, 1999, SCIENCE, V286, P785, DOI 10.1126/science.286.5440.785
+   MCCLELLAND JL, 1985, J EXP PSYCHOL GEN, V114, P159, DOI 10.1037/0096-3445.114.2.159
+   MCEWEN BS, 1994, ANN NY ACAD SCI, V746, P134
+   Mitrasinovic OM, 2001, J BIOL CHEM, V276, P30142, DOI 10.1074/jbc.M104265200
+   Monje ML, 2002, NAT MED, V8, P955, DOI 10.1038/nm749
+   Nacher J, 2001, EUR J NEUROSCI, V14, P629, DOI 10.1046/j.0953-816x.2001.01683.x
+   Nakatomi H, 2002, CELL, V110, P429, DOI 10.1016/S0092-8674(02)00862-0
+   Nottebohm F, 2002, BRAIN RES BULL, V57, P737, DOI 10.1016/S0361-9230(02)00750-5
+   Okada A, 1999, EXP NEUROL, V156, P394, DOI 10.1006/exnr.1999.7033
+   Palmer TD, 1997, MOL CELL NEUROSCI, V8, P389, DOI 10.1006/mcne.1996.0595
+   Palmer TD, 1999, J NEUROSCI, V19, P8487
+   Parent JM, 1997, J NEUROSCI, V17, P3727
+   Park KI, 2002, NAT BIOTECHNOL, V20, P1111, DOI 10.1038/nbt751
+   Petreanu L, 2002, J NEUROSCI, V22, P6106
+   Rochefort C, 2002, J NEUROSCI, V22, P2679, DOI 10.1523/JNEUROSCI.22-07-02679.2002
+   SAH P, 1989, SCIENCE, V246, P815, DOI 10.1126/science.2573153
+   Santarelli L, 2003, SCIENCE, V301, P805, DOI 10.1126/science.1083328
+   Schwab MH, 2000, J NEUROSCI, V20, P3714
+   Seaberg RM, 2002, J NEUROSCI, V22, P1784, DOI 10.1523/JNEUROSCI.22-05-01784.2002
+   See V, 2001, FASEB J, V15, P134, DOI 10.1096/fj.00-0106com
+   Sejnowski TJ, 1999, NEURON, V24, P773, DOI 10.1016/S0896-6273(00)81025-9
+   Seri B, 2001, J NEUROSCI, V21, P7153, DOI 10.1523/JNEUROSCI.21-18-07153.2001
+   Shihabuddin LS, 2000, J NEUROSCI, V20, P8727
+   Shors TJ, 2001, NATURE, V410, P372, DOI 10.1038/35066584
+   Snyder EY, 1997, P NATL ACAD SCI USA, V94, P11663, DOI 10.1073/pnas.94.21.11663
+   Song SH, 2002, NATURE, V417, P39, DOI 10.1038/417039a
+   SQUIRE LR, 1991, SCIENCE, V253, P1380, DOI 10.1126/science.1896849
+   Suhonen JO, 1996, NATURE, V383, P624, DOI 10.1038/383624a0
+   Tanigaki K, 2001, NEURON, V29, P45, DOI 10.1016/S0896-6273(01)00179-9
+   Taupin P, 2002, J NEUROSCI RES, V69, P745, DOI 10.1002/jnr.10378
+   Temple S, 2001, NATURE, V414, P112, DOI 10.1038/35102174
+   Toma JG, 2000, J NEUROSCI, V20, P7648
+   TSIEN RW, 1995, TRENDS NEUROSCI, V18, P52
+   van Praag H, 1999, P NATL ACAD SCI USA, V96, P13427, DOI 10.1073/pnas.96.23.13427
+   Wang DD, 2003, J NEUROPHYSIOL, V90, P2291, DOI 10.1152/jn.01116.2002
+   Wang SL, 2001, NEURON, V29, P603, DOI 10.1016/S0896-6273(01)00237-9
+   Watt FM, 2000, SCIENCE, V287, P1427, DOI 10.1126/science.287.5457.1427
+   West AE, 2001, P NATL ACAD SCI USA, V98, P11024, DOI 10.1073/pnas.191352298
+   Westerlund U, 2003, EXP CELL RES, V289, P378, DOI 10.1016/S0014-4827(03)00291-X
+   WHEELER DB, 1994, SCIENCE, V264, P107, DOI 10.1126/science.7832825
+   WILLSHAW DJ, 1969, NATURE, V222, P960, DOI 10.1038/222960a0
+NR 80
+TC 457
+Z9 483
+U1 1
+U2 27
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+SN 0896-6273
+EI 1097-4199
+J9 NEURON
+JI Neuron
+PD MAY 27
+PY 2004
+VL 42
+IS 4
+BP 535
+EP 552
+DI 10.1016/S0896-6273(04)00266-1
+PG 18
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 824TA
+UT WOS:000221708300006
+PM 15157417
+OA Bronze
+DA 2019-12-06
+ER
+
+PT J
+AU Ikegaya, Y
+   Aaron, G
+   Cossart, R
+   Aronov, D
+   Lampl, I
+   Ferster, D
+   Yuste, R
+AF Ikegaya, Y
+   Aaron, G
+   Cossart, R
+   Aronov, D
+   Lampl, I
+   Ferster, D
+   Yuste, R
+TI Synfire chains and cortical songs: Temporal modules of cortical activity
+SO SCIENCE
+LA English
+DT Article
+ID NEURAL-NETWORKS; NEURONS; NEOCORTEX; SEQUENCES; REPLAY; HIPPOCAMPUS;
+   RESPONSES; DYNAMICS; PATTERNS; CORTEX
+AB How can neural activity propagate through cortical networks built with weak, stochastic synapses? We find precise repetitions of spontaneous patterns of synaptic inputs in neocortical neurons in vivo and in vitro. These patterns repeat after minutes, maintaining millisecond accuracy. Calcium imaging of slices reveals reactivation of sequences of cells during the occurrence of repeated intracellular synaptic patterns. The spontaneous activity drifts with time, engaging different cells. Sequences of active neurons have distinct spatial structures and are repeated in the same order over tens of seconds, revealing modular temporal dynamics. Higher order sequences are replayed with compressed timing.
+C1 Columbia Univ, Dept Biol Sci, New York, NY 10027 USA.
+   Northwestern Univ, Dept Neurobiol & Physiol, Evanston, IL 60208 USA.
+RP Yuste, R (reprint author), Columbia Univ, Dept Biol Sci, New York, NY 10027 USA.
+EM rmy5@columbia.edu
+RI Cossart, Rosa/E-7674-2014
+OI Cossart, Rosa/0000-0003-2111-6638; Lampl, Ilan/0000-0002-9380-0730
+CR Abbott LF, 1997, SCIENCE, V275, P220
+   ABELES M, 1993, J NEUROPHYSIOL, V70, P1629
+   Abeles M., 1991, CORTICONICS
+   BIENENSTOCK E, 1995, NETWORK-COMP NEURAL, V6, P179, DOI 10.1088/0954-898X/6/2/004
+   Buonomano DV, 2003, P NATL ACAD SCI USA, V100, P4897, DOI 10.1073/pnas.0736909100
+   Cossart R, 2003, NATURE, V423, P283, DOI 10.1038/nature01614
+   De No RL, 1938, J NEUROPHYSIOL, V1, P207
+   Diesmann M, 1999, NATURE, V402, P529, DOI 10.1038/990101
+   Frankle W. Gordon, 2003, Neuron, V39, P205, DOI 10.1016/S0896-6273(03)00423-9
+   GOLDMANRAKIC PS, 1995, NEURON, V14, P477, DOI 10.1016/0896-6273(95)90304-6
+   Grinvald A, 2003, BIOPOLYMERS, V68, P422, DOI 10.1002/bip.10273
+   Hahnloser RHR, 2002, NATURE, V419, P65, DOI 10.1038/nature00974
+   HOPFIELD JJ, 1982, P NATL ACAD SCI-BIOL, V79, P2554, DOI 10.1073/pnas.79.8.2554
+   Kozloski J, 2001, SCIENCE, V293, P868, DOI 10.1126/science.293.5531.868
+   Lampl I, 1999, NEURON, V22, P361, DOI 10.1016/S0896-6273(00)81096-X
+   LLINAS R, 2002, 1 VORTEX NEURONS SEL
+   LLINAS RR, 1988, SCIENCE, V242, P1654, DOI 10.1126/science.3059497
+   Louie K, 2001, NEURON, V29, P145, DOI 10.1016/S0896-6273(01)00186-6
+   MAASS W, 2003, NEURAL COMPUT, V14, P2531
+   Mao BQ, 2001, NEURON, V32, P883, DOI 10.1016/S0896-6273(01)00518-9
+   Markram H, 1996, NATURE, V382, P807, DOI 10.1038/382807a0
+   Mountcastle V. B, 1998, PERCEPTUAL NEUROSCIE
+   Nadasdy Z, 1999, J NEUROSCI, V19, P9497
+   NOTTEBOHM F, 1990, PHILOS T R SOC B, V329, P115, DOI 10.1098/rstb.1990.0156
+   Oram MW, 1999, J NEUROPHYSIOL, V81, P3021
+   Shu YS, 2003, NATURE, V423, P288, DOI 10.1038/nature01616
+   SILBERBERG G, 2004, J PHYSL, P19
+   Skaggs WE, 1996, SCIENCE, V271, P1870, DOI 10.1126/science.271.5257.1870
+   STEVENS CF, 1994, CURR BIOL, V4, P268, DOI 10.1016/S0960-9822(00)00062-2
+   Wang XJ, 2001, TRENDS NEUROSCI, V24, P455, DOI 10.1016/S0166-2236(00)01868-3
+   YUSTE R, 1991, NEURON, V6, P333, DOI 10.1016/0896-6273(91)90243-S
+NR 31
+TC 544
+Z9 553
+U1 3
+U2 52
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+EI 1095-9203
+J9 SCIENCE
+JI Science
+PD APR 23
+PY 2004
+VL 304
+IS 5670
+BP 559
+EP 564
+DI 10.1126/science.1093173
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 814LB
+UT WOS:000220975100041
+PM 15105494
+DA 2019-12-06
+ER
+
+PT J
+AU Nagel, G
+   Szellas, T
+   Huhn, W
+   Kateriya, S
+   Adeishvili, N
+   Berthold, P
+   Ollig, D
+   Hegemann, P
+   Bamberg, E
+AF Nagel, G
+   Szellas, T
+   Huhn, W
+   Kateriya, S
+   Adeishvili, N
+   Berthold, P
+   Ollig, D
+   Hegemann, P
+   Bamberg, E
+TI Channelrhodopsin-2, a directly light-gated cation-selective membrane
+   channel
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE voltage clamp; patch clamp; light sensitive; Chlamydomonas reinhardtii;
+   Xenopus laevis oocyte
+ID GREEN-ALGA CHLAMYDOMONAS; SENSORY RHODOPSIN-II; PHOTOPHOBIC RESPONSES;
+   VOLTAGE-DEPENDENCE; BACTERIORHODOPSIN; REINHARDTII; PHOTOTAXIS;
+   CURRENTS; INSIGHTS; CALCIUM
+AB Microbial-type rhodopsins are found in archaea, prokaryotes, and eukaryotes. Some of them represent membrane ion transport proteins such as bacteriorhodopsin, a light-driven proton pump, or channelrhodopsin-1 (ChR1), a recently identified light-gated proton channel from the green alga Chlamydomonas reinhardtii. ChR1 and ChR2, a related microbial-type rhodopsin from C. reinhardtii, were shown to be involved in generation of photocurrents of this green alga. We demonstrate by functional expression, both in oocytes of Xenopus laevis and mammalian cells, that ChR2 is a directly light-switched cation-selective ion channel. This channel opens rapidly after absorption of a photon to generate a large permeability for monovalent and divalent cations. ChR2 desensitizes in continuous light to a smaller steady-state conductance. Recovery from desensitization is accelerated by extracellular H+ and negative membrane potential, whereas closing of the ChR2 ion channel is decelerated by intracellular H+. ChR2 is expressed mainly in C reinhardtii under low-light conditions, suggesting involvement in photoreception in dark-adapted cells. The predicted seven-transmembrane a helices of ChR2 are characteristic for G protein-coupled receptors but reflect a different motif for a cation-selective ion channel. Finally, we demonstrate that ChR2 may be used to depolarize small or large cells, simply by illumination.
+C1 Max Planck Inst Biophys, D-60439 Frankfurt, Germany.
+   Univ Regensburg, Inst Biochem, D-93040 Regensburg, Germany.
+   Univ Frankfurt, Biozentrum, Inst Biophys Chem, D-60439 Frankfurt, Germany.
+RP Nagel, G (reprint author), Max Planck Inst Biophys, Marie Curie Str 15, D-60439 Frankfurt, Germany.
+OI Nagel, Georg/0000-0001-8174-8712
+CR Bieszke JA, 1999, P NATL ACAD SCI USA, V96, P8034, DOI 10.1073/pnas.96.14.8034
+   Braun FJ, 1999, BIOPHYS J, V76, P1668, DOI 10.1016/S0006-3495(99)77326-1
+   Chen JH, 2002, J MEMBRANE BIOL, V188, P55, DOI 10.1007/s00232-001-0174-2
+   DARTNALL HJA, 1972, PHOTOCHEMISTRY VISIO, P122
+   DIEBLER H, 1969, Pure and Applied Chemistry, V20, P93, DOI 10.1351/pac196920010093
+   Ehlenbeck S, 2002, BIOPHYS J, V82, P740, DOI 10.1016/S0006-3495(02)75436-2
+   Friedrich T, 2002, J MOL BIOL, V321, P821, DOI 10.1016/S0022-2836(02)00696-4
+   Gordeliy VI, 2002, NATURE, V419, P484, DOI 10.1038/nature01109
+   Gropp T, 1998, BBA-BIOMEMBRANES, V1368, P184, DOI 10.1016/S0005-2736(97)00162-4
+   HAMILL OP, 1981, PFLUG ARCH EUR J PHY, V391, P85, DOI 10.1007/BF00656997
+   Hardie RC, 2001, NATURE, V413, P186, DOI 10.1038/35093002
+   HARZ H, 1992, PHILOS T R SOC B, V338, P39, DOI 10.1098/rstb.1992.0127
+   HARZ H, 1991, NATURE, V351, P489, DOI 10.1038/351489a0
+   HEGEMANN P, 1985, BIOCHIM BIOPHYS ACTA, V819, P195, DOI 10.1016/0005-2736(85)90174-9
+   Hegemann P, 2001, J PHYCOL, V37, P668, DOI 10.1046/j.1529-8817.2001.01095.x
+   HEGEMANN P, 1991, BIOPHYS J, V60, P1477, DOI 10.1016/S0006-3495(91)82183-X
+   HENDERSON R, 1990, J MOL BIOL, V213, P899, DOI 10.1016/S0022-2836(05)80271-2
+   HILGEMANN DW, 1990, NATURE, V344, P242, DOI 10.1038/344242a0
+   HILGEMANN DW, 1989, PFLUG ARCH EUR J PHY, V415, P247, DOI 10.1007/BF00370601
+   HILLE B, 1971, J GEN PHYSIOL, V58, P599, DOI 10.1085/jgp.58.6.599
+   Hille B., 2001, ION CHANNELS EXCITAB
+   Holland EM, 1996, BIOPHYS J, V70, P924, DOI 10.1016/S0006-3495(96)79635-2
+   KAUPP UB, 1995, CURR OPIN NEUROBIOL, V5, P434, DOI 10.1016/0959-4388(95)80002-6
+   Lanyi JK, 2001, CURR OPIN STRUC BIOL, V11, P415, DOI 10.1016/S0959-440X(00)00226-8
+   LAWSON MA, 1991, BIOPHYS J, V60, P1490, DOI 10.1016/S0006-3495(91)82184-1
+   LITVIN FF, 1978, NATURE, V271, P476, DOI 10.1038/271476a0
+   Nagel G, 1995, FEBS LETT, V377, P263, DOI 10.1016/0014-5793(95)01356-3
+   Nagel G, 2002, SCIENCE, V296, P2395, DOI 10.1126/science.1072068
+   NAGEL G, 1992, NATURE, V360, P81, DOI 10.1038/360081a0
+   Nagel G, 1998, BIOPHYS J, V74, P403, DOI 10.1016/S0006-3495(98)77797-5
+   OESTERHELT D, 1971, NATURE-NEW BIOL, V233, P149, DOI 10.1038/newbio233149a0
+   Okada T, 2001, TRENDS BIOCHEM SCI, V26, P318, DOI 10.1016/S0968-0004(01)01799-6
+   Sakmar TP, 2002, ANNU REV BIOPH BIOM, V31, P443, DOI 10.1146/annurev.biophys.31.082901.134348
+   Schmies G, 2001, P NATL ACAD SCI USA, V98, P1555, DOI 10.1073/pnas.031562298
+   SINESHCHEKOV OA, 1994, BIOPHYS J, V66, P2073, DOI 10.1016/S0006-3495(94)81002-1
+   Sineshchekov OA, 2002, P NATL ACAD SCI USA, V99, P8689, DOI 10.1073/pnas.122243399
+   Spudich JL, 2002, CURR OPIN STRUC BIOL, V12, P540, DOI 10.1016/S0959-440X(02)00359-7
+   STUHMER W, 1992, METHOD ENZYMOL, V207, P319
+   Suzuki T, 2003, BIOCHEM BIOPH RES CO, V301, P711, DOI 10.1016/S0006-291X(02)03079-6
+   TAKAHASHI T, 1987, P NATL ACAD SCI USA, V84, P5063, DOI 10.1073/pnas.84.14.5063
+   TAKAHASHI T, 1991, BIOCHEM BIOPH RES CO, V178, P1273, DOI 10.1016/0006-291X(91)91031-7
+   Weinreich F, 1999, J GEN PHYSIOL, V114, P55, DOI 10.1085/jgp.114.1.55
+   Zuker CS, 1996, P NATL ACAD SCI USA, V93, P571, DOI 10.1073/pnas.93.2.571
+NR 43
+TC 1360
+Z9 1393
+U1 9
+U2 223
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD NOV 25
+PY 2003
+VL 100
+IS 24
+BP 13940
+EP 13945
+DI 10.1073/pnas.1936192100
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 747KN
+UT WOS:000186803800037
+PM 14615590
+OA Green Published, Bronze
+DA 2019-12-06
+ER
+
+PT J
+AU Ditterich, J
+   Mazurek, ME
+   Shadlen, MN
+AF Ditterich, J
+   Mazurek, ME
+   Shadlen, MN
+TI Microstimulation of visual cortex affects the speed of perceptual
+   decisions
+SO NATURE NEUROSCIENCE
+LA English
+DT Article
+ID TRANSPARENT MOTION PERCEPTION; SACCADIC EYE-MOVEMENTS; AREA MT; MACAQUE
+   MT; DIRECTION; PSYCHOPHYSICS; SIGNALS; PROBABILITY; RESPONSES; NEURONS
+AB Direction-selective neurons in the middle temporal visual area (MT) are crucially involved in motion perception, although it is not known exactly how the activity of these neurons is interpreted by the rest of the brain. Here we report that in a two-alternative task, the activity of MT neurons is interpreted as evidence for one direction and against the other. We measured the speed and accuracy of decisions as rhesus monkeys performed a direction- discrimination task. On half of the trials, we stimulated direction- selective neurons in area MT, thereby causing the monkeys to choose the neurons' preferred direction more often. Microstimulation quickened decisions in favor of the preferred direction and slowed decisions in favor of the opposite direction. Even on trials in which microstimulation did not induce a preferred direction choice, it still affected response times. Our findings suggest that during the formation of a decision, sensory evidence for competing propositions is compared and accumulates to a decision-making threshold.
+C1 Univ Washington, Natl Primate Res Ctr, Howard Hughes Med Inst, Seattle, WA 98195 USA.
+   Univ Washington, Dept Physiol & Biophys, Seattle, WA 98195 USA.
+RP Shadlen, MN (reprint author), Univ Washington, Natl Primate Res Ctr, Howard Hughes Med Inst, 1959 NE Pacific St, Seattle, WA 98195 USA.
+EM shadlen@u.washington.edu
+OI Shadlen, Michael/0000-0002-2002-2210
+FU NCRR NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Center for Research
+   Resources (NCRR) [RR00166]; NEI NIH HHSUnited States Department of
+   Health & Human ServicesNational Institutes of Health (NIH) - USANIH
+   National Eye Institute (NEI) [EY11378]
+CR ADELSON EH, 1985, J OPT SOC AM A, V2, P284, DOI 10.1364/JOSAA.2.000284
+   Albright T D, 1993, Rev Oculomot Res, V5, P177
+   Brainard DH, 1997, SPATIAL VISION, V10, P433, DOI 10.1163/156856897X00357
+   BRITTEN KH, 1993, VISUAL NEUROSCI, V10, P1157, DOI 10.1017/S0952523800010269
+   CARPENTER RHS, 1995, NATURE, V377, P59, DOI 10.1038/377059a0
+   CELEBRINI S, 1995, J NEUROPHYSIOL, V73, P437
+   Churchland MM, 2001, J NEUROSCI, V21, P9387, DOI 10.1523/JNEUROSCI.21-23-09387.2001
+   Cook EP, 2002, NAT NEUROSCI, V5, P985, DOI 10.1038/nn924
+   Gold JI, 2001, TRENDS COGN SCI, V5, P10, DOI 10.1016/S1364-6613(00)01567-9
+   GOOD IJ, 1979, BIOMETRIKA, V66, P393, DOI 10.1093/biomet/66.2.393
+   Green D. M., 1966, SIGNAL DETECTION THE
+   Hanes DP, 1996, SCIENCE, V274, P427, DOI 10.1126/science.274.5286.427
+   Heeger DJ, 1999, J NEUROSCI, V19, P7162, DOI 10.1523/JNEUROSCI.19-16-07162.1999
+   Horwitz GD, 2001, J NEUROPHYSIOL, V86, P2543
+   Kim JN, 1999, NAT NEUROSCI, V2, P176
+   LAMING DRJ, 1969, J MATH PSYCHOL, V6, P81, DOI 10.1016/0022-2496(69)90030-3
+   LEVINSON E, 1975, J PHYSIOL-LONDON, V250, P347, DOI 10.1113/jphysiol.1975.sp011058
+   Meeker W. Q., 1999, STAT METHODS RELIABI
+   NEWSOME WT, 1988, J NEUROSCI, V8, P2201
+   PANTLE A, 1974, VISION RES, V14, P1229, DOI 10.1016/0042-6989(74)90221-1
+   Pelli DG, 1997, SPATIAL VISION, V10, P437, DOI 10.1163/156856897X00366
+   PRESS WH, 1992, NUMERICAL RECIPES C, P666
+   QIAN N, 1994, J NEUROSCI, V14, P7367
+   QIAN N, 1994, J NEUROSCI, V14, P7357
+   Rudolph K, 1999, CEREB CORTEX, V9, P90, DOI 10.1093/cercor/9.1.90
+   SNOWDEN RJ, 1991, J NEUROSCI, V11, P2768
+   Van Essen DC, 2002, CURR OPIN NEUROBIOL, V12, P574, DOI 10.1016/S0959-4388(02)00361-6
+   Van Essen DC, 2001, J AM MED INFORM ASSN, V8, P443, DOI 10.1136/jamia.2001.0080443
+   Van Wezel RJA, 2002, J NEUROPHYSIOL, V88, P3469, DOI 10.1152/jn.00276.2002
+   Wald A., 1947, SEQUENTIAL ANAL
+NR 30
+TC 141
+Z9 141
+U1 0
+U2 8
+PU NATURE PUBLISHING GROUP
+PI NEW YORK
+PA 75 VARICK ST, 9TH FLR, NEW YORK, NY 10013-1917 USA
+SN 1097-6256
+EI 1546-1726
+J9 NAT NEUROSCI
+JI Nat. Neurosci.
+PD AUG
+PY 2003
+VL 6
+IS 8
+BP 891
+EP 898
+DI 10.1038/nn1094
+PG 8
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 705UP
+UT WOS:000184413700020
+PM 12858179
+DA 2019-12-06
+ER
+
+PT J
+AU Shepherd, GMG
+   Pologruto, TA
+   Svoboda, K
+AF Shepherd, GMG
+   Pologruto, TA
+   Svoboda, K
+TI Circuit analysis of experience-dependent plasticity in the developing
+   rat barrel cortex
+SO NEURON
+LA English
+DT Article
+ID DEVELOPING SOMATOSENSORY CORTEX; SOMATIC SENSORY RESPONSES; PRIMARY
+   VISUAL-CORTEX; POSTERIOR GROUP POM; MEDIAL NUCLEUS VPM; LAYER-IV;
+   CRITICAL PERIOD; FIELD CORTEX; FUNCTIONAL CONNECTIVITY; SYNAPTIC
+   CONNECTIONS
+AB Sensory deprivation during a critical period reduces spine motility and disrupts receptive field structure of layer 2/3 neurons in rat barrel cortex. To determine the locus of plasticity, we used laser scanning photostimulation, allowing us to rapidly map intracortical synaptic connectivity in brain slices. Layer 2/3 neurons differed in their spatial distributions of presynaptic partners: neurons directly above barrels received, on average, significantly more layer 4 input than those above the septa separating barrels. Complementary connectivity was found in deprived cortex: neurons above septa were now strongly coupled to septal regions, while connectivity between barrel regions and layer 2/3 was reduced. These results reveal competitive interactions between barrel and septal circuits in the establishment of precise intracortical circuits.
+C1 Cold Spring Harbor Lab, Howard Hughes Med Inst, Cold Spring Harbor, NY 11724 USA.
+   Harvard Univ, Grad Program Biophys, Cambridge, MA 02138 USA.
+RP Svoboda, K (reprint author), Cold Spring Harbor Lab, Howard Hughes Med Inst, 1 Bungtown Rd, Cold Spring Harbor, NY 11724 USA.
+RI Shepherd, Gordon/F-2679-2010
+CR AGMON A, 1993, J NEUROSCI, V13, P5365
+   AGMON A, 1991, NEUROSCIENCE, V41, P365, DOI 10.1016/0306-4522(91)90333-J
+   Ahissar E, 2000, NATURE, V406, P302, DOI 10.1038/35018568
+   ARMSTRONGJAMES M, 1987, J COMP NEUROL, V263, P265, DOI 10.1002/cne.902630209
+   BERNARDO KL, 1990, J COMP NEUROL, V291, P231, DOI 10.1002/cne.902910207
+   BOURASSA J, 1995, EUR J NEUROSCI, V7, P19, DOI 10.1111/j.1460-9568.1995.tb01016.x
+   Brecht M, 2002, J PHYSIOL-LONDON, V543, P49, DOI 10.1113/jphysiol.2002.018465
+   Brumberg JC, 1999, J NEUROPHYSIOL, V82, P1808
+   CALLAWAY EM, 1993, P NATL ACAD SCI USA, V90, P7661, DOI 10.1073/pnas.90.16.7661
+   Canepari M, 2001, J NEUROSCI METH, V112, P29, DOI 10.1016/S0165-0270(01)00451-4
+   CHAPIN JK, 1987, J COMP NEUROL, V263, P326, DOI 10.1002/cne.902630303
+   CHIAIA NL, 1991, J COMP NEUROL, V314, P217, DOI 10.1002/cne.903140203
+   CHMIELOWSKA J, 1989, J COMP NEUROL, V285, P325, DOI 10.1002/cne.902850304
+   CRANDALL JE, 1986, NEUROSCI LETT, V67, P19, DOI 10.1016/0304-3940(86)90201-6
+   CUSICK CG, 1990, J COMP NEUROL, V292, P83, DOI 10.1002/cne.902920106
+   Dantzker JL, 2000, NAT NEUROSCI, V3, P701, DOI 10.1038/76656
+   DIAMOND ME, 1992, J COMP NEUROL, V319, P66, DOI 10.1002/cne.903190108
+   DIAMOND ME, 1992, J COMP NEUROL, V318, P462, DOI 10.1002/cne.903180410
+   DIAMOND ME, 1994, SCIENCE, V265, P1885, DOI 10.1126/science.8091215
+   Dodt HU, 1999, SCIENCE, V286, P110, DOI 10.1126/science.286.5437.110
+   Feldman DE, 2001, NEURON, V31, P171, DOI 10.1016/S0896-6273(01)00363-4
+   Feldmeyer D, 2002, J PHYSIOL-LONDON, V538, P803, DOI 10.1113/jphysiol.2001.012959
+   Finnerty GT, 1999, NATURE, V400, P367
+   FOX K, 1992, J NEUROSCI, V12, P1826
+   JEANMONOD D, 1981, NEUROSCIENCE, V6, P1503, DOI 10.1016/0306-4522(81)90222-0
+   JHAVERI S, 1991, P NATL ACAD SCI USA, V88, P4489, DOI 10.1073/pnas.88.10.4489
+   Kaas J, 1998, NAT NEUROSCI, V1, P341, DOI 10.1038/1546
+   KATZ LC, 1994, J NEUROSCI METH, V54, P205, DOI 10.1016/0165-0270(94)90194-5
+   Kim U, 1999, J COMP NEUROL, V408, P489
+   KORALEK KA, 1988, BRAIN RES, V463, P346, DOI 10.1016/0006-8993(88)90408-8
+   Kotter R, 1998, NEUROSCIENCE, V86, P265, DOI 10.1016/S0306-4522(98)00010-4
+   Kozloski J, 2001, SCIENCE, V293, P868, DOI 10.1126/science.293.5531.868
+   KRUBITZER LA, 1992, J COMP NEUROL, V319, P123, DOI 10.1002/cne.903190111
+   Laaris N, 2000, J NEUROSCI, V20, P1529
+   Laaris N, 2002, J NEUROPHYSIOL, V87, P1028, DOI 10.1152/jn.00512.2001
+   Lendvai B, 2000, NATURE, V404, P876, DOI 10.1038/35009107
+   LU SM, 1992, SOMATOSENS MOT RES, V10, P1
+   Lubke J, 2000, J NEUROSCI, V20, P5300, DOI 10.1523/JNEUROSCI.20-14-05300.2000
+   Markram H, 1997, J PHYSIOL-LONDON, V500, P409, DOI 10.1113/jphysiol.1997.sp022031
+   Micheva KD, 1996, J COMP NEUROL, V373, P340, DOI 10.1002/(SICI)1096-9861(19960923)373:3<340::AID-CNE3>3.0.CO;2-2
+   O'Leary D D, 1994, Curr Opin Neurobiol, V4, P535, DOI 10.1016/0959-4388(94)90054-X
+   OLAVARRIA J, 1984, BRAIN RES, V291, P364, DOI 10.1016/0006-8993(84)91270-8
+   Petersen CCH, 2001, J NEUROSCI, V21, P8435
+   Petersen CCH, 2000, J NEUROSCI, V20, P7579
+   Porter JT, 2001, J NEUROSCI, V21, P2699, DOI 10.1523/JNEUROSCI.21-08-02699.2001
+   RICE FL, 1977, J COMP NEUROL, V171, P545, DOI 10.1002/cne.901710408
+   RICE FL, 1995, BARREL CORTEX RODENT, P1
+   Roerig B, 2002, CEREB CORTEX, V12, P187, DOI 10.1093/cercor/12.2.187
+   Sawatari A, 2000, NEURON, V25, P459, DOI 10.1016/S0896-6273(00)80908-3
+   SCHLAGGAR BL, 1993, NATURE, V364, P623, DOI 10.1038/364623a0
+   Schubert D, 2001, J NEUROSCI, V21, P3580, DOI 10.1523/JNEUROSCI.21-10-03580.2001
+   Sherman S.M., 2000, EXPLORING THALAMUS
+   SIMONS DJ, 1978, J NEUROPHYSIOL, V41, P798
+   Stern EA, 2001, NEURON, V31, P305, DOI 10.1016/S0896-6273(01)00360-9
+   Takahashi T, 2003, SCIENCE, V299, P1585, DOI 10.1126/science.1079886
+   Trachtenberg JT, 2000, SCIENCE, V287, P2029, DOI 10.1126/science.287.5460.2029
+   Wang Y, 2002, CEREB CORTEX, V12, P395, DOI 10.1093/cercor/12.4.395
+   WELKER C, 1974, J COMP NEUROL, V158, P437, DOI 10.1002/cne.901580405
+   Welker W. I., 1964, Behaviour, V22, P223, DOI 10.1163/156853964X00030
+   WOOLSEY TA, 1970, BRAIN RES, V17, P205, DOI 10.1016/0006-8993(70)90079-X
+NR 60
+TC 235
+Z9 240
+U1 0
+U2 6
+PU CELL PRESS
+PI CAMBRIDGE
+PA 1100 MASSACHUSETTS AVE, CAMBRIDGE, MA 02138 USA
+SN 0896-6273
+J9 NEURON
+JI Neuron
+PD APR 24
+PY 2003
+VL 38
+IS 2
+BP 277
+EP 289
+DI 10.1016/S0896-6273(03)00152-1
+PG 13
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 672AM
+UT WOS:000182498300016
+PM 12718861
+OA Bronze
+DA 2019-12-06
+ER
+
+PT J
+AU Suzuki, T
+   Yamasaki, K
+   Fujita, S
+   Oda, K
+   Iseki, M
+   Yoshida, K
+   Watanabe, M
+   Daiyasu, H
+   Toh, H
+   Asamizu, E
+   Tabata, S
+   Miura, K
+   Fukuzawa, H
+   Nakamura, S
+   Takahashi, T
+AF Suzuki, T
+   Yamasaki, K
+   Fujita, S
+   Oda, K
+   Iseki, M
+   Yoshida, K
+   Watanabe, M
+   Daiyasu, H
+   Toh, H
+   Asamizu, E
+   Tabata, S
+   Miura, K
+   Fukuzawa, H
+   Nakamura, S
+   Takahashi, T
+TI Archaeal-type rhodopsins in Chlamydomonas: model structure and
+   intracellular localization
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+LA English
+DT Article
+DE retinal; photomovement; bacteriorhodopsin; sensory rhodopsin; ion
+   channel; photoreceptor
+ID SECONDARY STRUCTURE PREDICTION; PROTEIN; PHOTOTAXIS; GENE;
+   BACTERIORHODOPSIN; PHOTORECEPTOR; PHOTOTROPHY; CHROMOPHORE; STATE; LIGHT
+AB Phototaxis in the unicellular green alga Chlamydomonas reinhardtii is mediated by rhodopsin-type photoreceptor(s). Recent expressed sequence tag database from the Kazusa DNA Research Institute has provided the basis for unequivocal identification of two archaeal-type rhodopsins in it. Here we demonstrate that one is located near the eyespot, wherein the photoreceptor(s) has long been thought to be enriched, along with the results of bioinformatic analyses. Secondary structure prediction showed that the second putative transmembrane helices (helix B) of these rhodopsins are rich in glutamate residues, and homology modeling suggested that some additional intra- or intermolecular interactions are necessary for opsin-like folding of the N-terminal ca. 300-aa membrane spanning domains of 712 and 737-aa polypeptides. These results complement physiological and electrophysiological experiments combined with the manipulation of their expression [O.A. Sineshchekov, K.H. Jung, J.H. Spudich, Proc. Natl. Sci. USA 99 (2002) 8689; G. Nagel, D. Olig, M. Fuhrmann, S. Kateriya, A.M. Musti, E. Bamberg, P. Hegemann, Science 296 (2002) 2395]. (C) 2003 Elsevier Science (USA). All rights reserved.
+C1 Toyama Univ, Fac Sci, Toyama 9308555, Japan.
+   Kyoto Univ, Grad Sch Studies, Kyoto 6068502, Japan.
+   Kazusa DNA Res Inst, Chiba 2920812, Japan.
+   Biomol Engn Res Inst, Suita, Osaka 5650871, Japan.
+   Natl Inst Basic Biol, Okazaki, Aichi 4448585, Japan.
+   Japan Adv Inst Adv Sci & Technol, Sch Mat Sci, Tatsunokuchi, Ishikawa 9231292, Japan.
+RP Takahashi, T (reprint author), Toho Univ, Sch Pharmaceut Sci, 2-2-1 Miyama, Funabashi, Chiba 2748510, Japan.
+EM ttakaha@phar.toho-u.ac.jp
+RI Miura, Kenji/C-2803-2011
+OI Miura, Kenji/0000-0003-1262-2176
+CR Asamizu E, 1999, DNA Res, V6, P369, DOI 10.1093/dnares/6.6.369
+   AUSUBEL FM, 1997, CURRENT PROTOCOLS MO
+   Baldi P, 1999, BIOINFORMATICS, V15, P937, DOI 10.1093/bioinformatics/15.11.937
+   Bannai H, 2002, BIOINFORMATICS, V18, P298, DOI 10.1093/bioinformatics/18.2.298
+   Beja O, 2000, SCIENCE, V289, P1902, DOI 10.1126/science.289.5486.1902
+   Beja O, 2001, NATURE, V411, P786, DOI 10.1038/35081051
+   Bieszke JA, 1999, P NATL ACAD SCI USA, V96, P8034, DOI 10.1073/pnas.96.14.8034
+   DEININGER W, 1995, EMBO J, V14, P5849, DOI 10.1002/j.1460-2075.1995.tb00273.x
+   FOSTER KW, 1984, NATURE, V311, P756, DOI 10.1038/311756a0
+   HARBISON GS, 1985, BIOCHEMISTRY-US, V24, P6955, DOI 10.1021/bi00345a031
+   HARZ H, 1991, NATURE, V351, P489, DOI 10.1038/351489a0
+   Idnurm A, 2001, GENOME, V44, P167, DOI 10.1139/gen-44-2-167
+   Ihara K, 1999, J MOL BIOL, V285, P163, DOI 10.1006/jmbi.1998.2286
+   Jones DT, 1999, J MOL BIOL, V292, P195, DOI 10.1006/jmbi.1999.3091
+   Karplus K, 1998, BIOINFORMATICS, V14, P846, DOI 10.1093/bioinformatics/14.10.846
+   Lin SL, 1997, PROTEIN ENG, V10, P197, DOI 10.1093/protein/10.3.197
+   Nagel G, 2002, SCIENCE, V296, P2395, DOI 10.1126/science.1072068
+   Ouali M, 2000, PROTEIN SCI, V9, P1162, DOI 10.1110/ps.9.6.1162
+   Ridge KD, 2002, CURR BIOL, V12, pR588, DOI 10.1016/S0960-9822(02)01099-0
+   Rost B, 1996, METHOD ENZYMOL, V266, P525
+   SAITOU N, 1987, MOL BIOL EVOL, V4, P406
+   SAMBROOK J, 2001, MOL CLONING
+   Sass HJ, 2000, NATURE, V406, P649, DOI 10.1038/35020607
+   Sineshchekov OA, 1999, TRENDS PLANT SCI, V4, P58, DOI 10.1016/S1360-1385(98)01370-3
+   Sineshchekov OA, 2002, P NATL ACAD SCI USA, V99, P8689, DOI 10.1073/pnas.122243399
+   Spudich JL, 2002, CURR OPIN STRUC BIOL, V12, P540, DOI 10.1016/S0959-440X(02)00359-7
+   Spudich JL, 2000, ANNU REV CELL DEV BI, V16, P365, DOI 10.1146/annurev.cellbio.16.1.365
+   TAKAHASHI T, 1990, BIOCHEMISTRY-US, V29, P8467, DOI 10.1021/bi00488a038
+   THOMPSON JD, 1994, NUCLEIC ACIDS RES, V22, P4673, DOI 10.1093/nar/22.22.4673
+   Toyoshima C, 2000, NATURE, V405, P647, DOI 10.1038/35015017
+NR 30
+TC 104
+Z9 110
+U1 0
+U2 5
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0006-291X
+EI 1090-2104
+J9 BIOCHEM BIOPH RES CO
+JI Biochem. Biophys. Res. Commun.
+PD FEB 14
+PY 2003
+VL 301
+IS 3
+BP 711
+EP 717
+DI 10.1016/S0006-291X(02)03079-6
+PG 7
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 648HD
+UT WOS:000181143800015
+PM 12565839
+DA 2019-12-06
+ER
+
+PT J
+AU Zemelman, BV
+   Nesnas, N
+   Lee, GA
+   Miesenbock, G
+AF Zemelman, BV
+   Nesnas, N
+   Lee, GA
+   Miesenbock, G
+TI Photochemical gating of heterologous ion channels: Remote control over
+   genetically designated populations of neurons
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+ID STRUCTURAL MOTIF; RECEPTOR; LIGAND; CAPSAICIN; ATP; PROTEINS; ANALOGS
+AB Heterologous proteins capable of transducing physical or chemical stimuli into electrical signals can be used to control the function of excitable cells in intact tissues or organisms. Restricted genetically to circumscribed populations of cellular targets, these selectively addressable sources of depolarizing current can supply distributed inputs to neural circuits, stimulate secretion, or regulate force and motility. In an initial demonstration of this principle, we have used elements of a G protein coupled signaling system, the phototransduction cascade of the fruit fly, to sensitize generalist vertebrate neurons to light [Zemelman, B. V., Lee, G. A., Ng, M. & Miesenbock, G. (2002) Neuron 33,15-22]. We now describe the use of ectopically expressed ligand-gated ion channels as transducers of optical or pharmacological stimuli. When either the capsaicin receptor, TRPV1, the menthol receptor, TRPM8, or the ionotropic purinergic receptor P2X(2) was introduced into hippocampal neurons, the cells responded to pulsed applications of agonist with characteristic sequences of depolarization, spiking, and repolarization. Responses required cognate matches between receptor and agonist, peaked at firing frequencies of approximate to40 Hz, initiated and terminated rapidly, and did not attenuate. Precise dose-response relationships allowed current amplitudes and firing frequencies to be tuned by varying the concentration of ligand. Agonist could be administered either pharmacologically or, in the cases of TRPV1 and P2X(2), optically, through photorelease of the active compounds from the respective "caged" precursors, 4,5-dimethoxy-2-nitrobenzyl-capsaicin and P-3-[1-(4,5-dimethoxy-2-nitrophenyl)ethyl]-ATP.
+C1 Mem Sloan Kettering Canc Ctr, Lab Neural Syst, Cellular Biochem & Biophys Program, New York, NY 10021 USA.
+   Columbia Univ, Dept Chem, New York, NY 10027 USA.
+RP Miesenbock, G (reprint author), Mem Sloan Kettering Canc Ctr, Lab Neural Syst, Cellular Biochem & Biophys Program, 1275 York Ave, New York, NY 10021 USA.
+OI Nesnas, Nasri/0000-0003-3511-940X; Zemelman, Boris/0000-0003-2463-4887;
+   Miesenboeck, Gero/0000-0003-2940-3228
+CR Bishop A, 2000, ANNU REV BIOPH BIOM, V29, P577, DOI 10.1146/annurev.biophys.29.1.577
+   Brake AJ, 1996, ANNU REV CELL DEV BI, V12, P519, DOI 10.1146/annurev.cellbio.12.1.519
+   BRAKE AJ, 1994, NATURE, V371, P519, DOI 10.1038/371519a0
+   CALLAWAY EM, 1993, P NATL ACAD SCI USA, V90, P7661, DOI 10.1073/pnas.90.16.7661
+   Caterina MJ, 1997, NATURE, V389, P816, DOI 10.1038/39807
+   Clapham DE, 2001, NAT REV NEUROSCI, V2, P387, DOI 10.1038/35077544
+   Ding SH, 2000, J PHYSIOL-LONDON, V522, P199, DOI 10.1111/j.1469-7793.2000.t01-1-00199.x
+   Hardie RC, 2001, NATURE, V413, P186, DOI 10.1038/35093002
+   HARDIE RC, 1983, PROGR SENSORY PHYSL, V5, P1
+   Hille B., 2001, ION CHANNELS EXCITAB
+   KAPLAN JH, 1978, BIOCHEMISTRY-US, V17, P1929, DOI 10.1021/bi00603a020
+   MCCRAY JA, 1989, ANNU REV BIOPHYS BIO, V18, P239, DOI 10.1146/annurev.bb.18.060189.001323
+   McKemy DD, 2002, NATURE, V416, P52, DOI 10.1038/nature719
+   Mezey E, 2000, P NATL ACAD SCI USA, V97, P3655, DOI 10.1073/pnas.060496197
+   Montell C, 2002, CELL, V108, P595, DOI 10.1016/S0092-8674(02)00670-0
+   Newbolt A, 1998, J BIOL CHEM, V273, P15177, DOI 10.1074/jbc.273.24.15177
+   Nicke A, 1998, EMBO J, V17, P3016, DOI 10.1093/emboj/17.11.3016
+   Peier AM, 2002, CELL, V108, P705, DOI 10.1016/S0092-8674(02)00652-9
+   Prasad BC, 1999, TRENDS GENET, V15, P150, DOI 10.1016/S0168-9525(99)01695-9
+   Rapp G, 1998, Methods Enzymol, V291, P202
+   Shah K, 1997, P NATL ACAD SCI USA, V94, P3565, DOI 10.1073/pnas.94.8.3565
+   Stoop R, 1999, MOL PHARMACOL, V56, P973
+   STRYER L, 1991, J BIOL CHEM, V266, P10711
+   Tobin DM, 2002, NEURON, V35, P307, DOI 10.1016/S0896-6273(02)00757-2
+   VALERA S, 1994, NATURE, V371, P516, DOI 10.1038/371516a0
+   WALKER JW, 1986, BIOCHEMISTRY-US, V25, P1799, DOI 10.1021/bi00355a052
+   WALPOLE CSJ, 1993, J MED CHEM, V36, P2362, DOI 10.1021/jm00068a014
+   Walpole CSJ, 1996, J MED CHEM, V39, P2939, DOI 10.1021/jm960139d
+   WICKMAN K, 1995, PHYSIOL REV, V75, P865
+   WILCOX M, 1990, J ORG CHEM, V55, P1585, DOI 10.1021/jo00292a038
+   Zemelman BV, 2002, NEURON, V33, P15, DOI 10.1016/S0896-6273(01)00574-8
+   Zemelman BV, 2001, CURR OPIN NEUROBIOL, V11, P409, DOI 10.1016/S0959-4388(00)00227-0
+NR 32
+TC 154
+Z9 157
+U1 0
+U2 21
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD FEB 4
+PY 2003
+VL 100
+IS 3
+BP 1352
+EP 1357
+DI 10.1073/pnas.242738899
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 642ZU
+UT WOS:000180838100104
+PM 12540832
+OA Green Published, Bronze
+DA 2019-12-06
+ER
+
+PT J
+AU Moore, T
+   Armstrong, KM
+AF Moore, T
+   Armstrong, KM
+TI Selective gating of visual signals by microstimulation of frontal cortex
+SO NATURE
+LA English
+DT Article
+ID SACCADIC EYE-MOVEMENTS; SPATIAL ATTENTION; CORTICAL AREAS; MACAQUE;
+   FIELDS; V4; REPRESENTATIONS; STIMULATION; TOPOGRAPHY; PRIMATES
+AB Several decades of psychophysical and neurophysiological studies have established that visual signals are enhanced at the locus of attention(1-5). What remains a mystery is the mechanism that initiates biases in the strength of visual representations(6). Recent evidence argues that, during spatial attention, these biases reflect nascent saccadic eye movement commands(7,8). We examined the functional interaction of saccade preparation and visual coding by electrically stimulating sites within the frontal eye fields (FEF) and measuring its effect on the activity of neurons in extrastriate visual cortex. Here we show that visual responses in area V4 could be enhanced after brief stimulation of retinotopically corresponding sites within the FEF using currents below that needed to evoke saccades. The magnitude of the enhancement depended on the effectiveness of receptive field stimuli as well as on the presence of competing stimuli outside the receptive field. Stimulation of non-corresponding FEF representations could suppress V4 responses. The results suggest that the gain of visual signals is modified according to the strength of spatially corresponding eye movement commands.
+C1 Princeton Univ, Dept Psychol, Princeton, NJ 08544 USA.
+RP Moore, T (reprint author), Princeton Univ, Dept Psychol, Princeton, NJ 08544 USA.
+CR Blaser E, 1999, P NATL ACAD SCI USA, V96, P11681, DOI 10.1073/pnas.96.20.11681
+   BRUCE CJ, 1985, J NEUROPHYSIOL, V54, P714
+   Burman DD, 1997, J NEUROPHYSIOL, V77, P2252
+   DESIMONE R, 1995, ANNU REV NEUROSCI, V18, P193, DOI 10.1146/annurev.neuro.18.1.193
+   GODOY J, 1990, NEUROLOGY, V40, P296, DOI 10.1212/WNL.40.2.296
+   HAENNY PE, 1988, EXP BRAIN RES, V69, P225, DOI 10.1007/BF00247569
+   HOFFMAN JE, 1995, PERCEPT PSYCHOPHYS, V57, P787, DOI 10.3758/BF03206794
+   Leopold DA, 1998, EXP BRAIN RES, V123, P341, DOI 10.1007/s002210050577
+   McAdams CJ, 1999, J NEUROSCI, V19, P431
+   Moore T, 1999, SCIENCE, V285, P1914, DOI 10.1126/science.285.5435.1914
+   Moore T, 1998, P NATL ACAD SCI USA, V95, P8981, DOI 10.1073/pnas.95.15.8981
+   Moore T, 2001, P NATL ACAD SCI USA, V98, P1273, DOI 10.1073/pnas.021549498
+   MORAN J, 1985, SCIENCE, V229, P782, DOI 10.1126/science.4023713
+   MOTTER BC, 1993, J NEUROPHYSIOL, V70, P909
+   Nakamura K, 1999, J NEUROPHYSIOL, V81, P2374
+   Penfield W, 1950, CEREBRAL CORTEX MAN
+   RIZZOLATTI G, 1987, NEUROPSYCHOLOGIA, V25, P31, DOI 10.1016/0028-3932(87)90041-8
+   SCHALL JD, 1995, J NEUROSCI, V15, P4464
+   Schiller PH, 2001, PROG BRAIN RES, V134, P127
+   SHEPHERD M, 1986, Q J EXP PSYCHOL-A, V38, P475, DOI 10.1080/14640748608401609
+   SPERLING G, 1978, SCIENCE, V202, P315, DOI 10.1126/science.694536
+   STANTON GB, 1995, J COMP NEUROL, V353, P291, DOI 10.1002/cne.903530210
+   Tehovnik EJ, 2000, BRAIN RES REV, V32, P413, DOI 10.1016/S0165-0173(99)00092-2
+   VANHOOFF JAR, 1972, NONVERBAL COMMUNICAT, pCH7
+   Yarbus A. L., 1967, EYE MOVEMENTS VISION
+   Zipser K, 1996, J NEUROSCI, V16, P7376
+NR 26
+TC 705
+Z9 711
+U1 0
+U2 41
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD JAN 23
+PY 2003
+VL 421
+IS 6921
+BP 370
+EP 373
+DI 10.1038/nature01341
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 637UW
+UT WOS:000180533000042
+PM 12540901
+DA 2019-12-06
+ER
+
+EF
