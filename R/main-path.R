@@ -8,7 +8,9 @@
 #' @export
 build_network = function (M) {
   cit.net = make_citnet(M)
+  cat("\n")
   pajek.net = make_net_for_pajek(cit.net)
+  cat("Done!\n")
   pajek.net
 }
 
@@ -23,8 +25,8 @@ build_network = function (M) {
 #' @export
 save_network <- function (NET, filename) {
   cat("Saving network ...\n")
-  igraph::write_graph(NET, filename, format = "GML")
-  igraph::write_graph(NET, filename, format = "pajek")
+  igraph::write_graph(NET, paste0(filename,".gml"), format = "GML")
+  igraph::write_graph(NET, paste0(filename,".net"), format = "pajek")
 }
 
 
@@ -42,9 +44,9 @@ save_network <- function (NET, filename) {
 #' @importFrom magrittr %>%
 #' @importFrom utils write.table
 #' @export
-save_papers_mp <- function (NET, output_path, M = NULL) {
+save_papers_mp <- function (NET, filename, M) {
   igraph::write_graph(NET,
-                      paste0(output_path, "/Citation Main Path.gml"),
+                      paste0(filename, "_net.gml"),
                       format = "GML")
 
   mpPapers = igraph::V(NET)$name
@@ -54,14 +56,12 @@ save_papers_mp <- function (NET, output_path, M = NULL) {
   mpM = M[rownames(M) %in% mpPapers,]
 
   write.table(mpM %>% dplyr::select(SR_FULL, TI, PY, SO, DI, TC),
-              paste0(output_path, "/Main Path Papers List.csv"),
+              paste0(filename, "_papers_list.tsv"),
               sep = "\t", row.names = F)
 
   write.table(mpM,
-              paste0(output_path,"/Main Path Papers List Full Records.csv"),
+              paste0(filename,"_papers_list_full_records.tsv"),
               sep = "\t", row.names = F)
-
-  mpM
 }
 
 
@@ -199,7 +199,7 @@ make_hist_citation_net <- function (M, min.citations = 1) {
   lCit = Matrix::Matrix(0, N, N2)
 
   for (i in 1:N) {
-    if (i %% 10 == 0 | i == N) cat("Articles analysed  ", i, "\n")
+    if (i %% 100 == 0 | i == N) cat(paste0("Articles processed: ", i, "\n"))
 
     # Searches by name
     x = M2$SR_FULL[i]
@@ -214,7 +214,7 @@ make_hist_citation_net <- function (M, min.citations = 1) {
     #   p1 = pos
     #   pos = unique(pos, pos2)
     #   if (length(p1) > 0 & length(pos) > 0) {
-    #     if (p1 != pos) { print("AAAAAAAAA")}
+    #     if (p1 != pos) { cat("AAAAAAAAA")}
     #   }
     # }
 
@@ -256,7 +256,7 @@ make_citnet <- function(M) {
   cat("Making graph ...\n")
   ADJ = as.matrix(histResults$NetMatrix)
   NET = igraph::graph_from_adjacency_matrix(ADJ, mode = "directed", diag = F)
-  cat("Simplifying network ...\n")
+  cat("\nSimplifying network ...")
   NET = igraph::simplify(NET, remove.multiple = T, remove.loops = T)
   NET
 }
@@ -275,7 +275,6 @@ make_citnet <- function(M) {
 #' @return The simplified network.
 #' @export
 make_net_for_pajek <- function (NET) {
-  cat("Simplifying network ...\n")
   NET = igraph::simplify(NET, remove.multiple = T, remove.loops = T)
   # browser()
   tries = 0
@@ -291,12 +290,12 @@ make_net_for_pajek <- function (NET) {
       }
 
       if (w[size] > 0) {
-        cat(paste0("Finding citation loops of size ", size," ...\n"))
+        cat(paste0("\nFinding citation loops of size ", size," ...\n"))
         loops = find_cycles(NET, size)
 
-        cat(paste0("Found ", length(loops), " loops.\n"))
+        cat(paste0("Found ", length(loops), " loops."))
         if (length(loops) > 0) {
-          cat(paste0("Removing citation loops of size ", size," ...\n"))
+          cat(paste0("\nRemoving citation loops of size ", size," ...\n"))
           NET = make_loops_into_families(loops, NET)
 
           NET = igraph::simplify(NET, remove.multiple = T, remove.loops = T)
@@ -330,7 +329,7 @@ find_cycles <- function(g, size) {
   Cycles = NULL
   if (size == 2) {
     for(v1 in igraph::V(g)) {
-      if (v1 %% 100 == 0) cat(paste0("Articles analyzed ", v1,"\n"))
+      if (v1 %% 100 == 0) cat(paste0("Articles processed: ", v1, "\n"))
       nei1 = igraph::neighbors(g, v1, mode="out")
       nei1 = nei1[nei1 > v1]
       for(v2 in nei1) {
@@ -347,7 +346,7 @@ find_cycles <- function(g, size) {
     )
   } else if (size == 3) {
     for(v1 in igraph::V(g)) {
-      if (v1 %% 100 == 0) cat(paste0("Articles analyzed ", v1,"\n"))
+      if (v1 %% 100 == 0) cat(paste0("Articles analyzed ", v1, "\n"))
       nei1 = igraph::neighbors(g, v1, mode="out")
       nei1 = nei1[nei1 > v1]
       for(v2 in nei1) {
@@ -368,7 +367,7 @@ find_cycles <- function(g, size) {
     )
   } else {
     for(v1 in igraph::V(g)) {
-      if (v1 %% 100 == 0) cat(paste0("Articles analyzed ", v1,"\n"))
+      if (v1 %% 100 == 0) cat(paste0("Articles analyzed ", v1, "\n"))
       nei1 = igraph::neighbors(g, v1, mode="out")
       nei1 = nei1[nei1 > v1]
       for(v2 in nei1) {

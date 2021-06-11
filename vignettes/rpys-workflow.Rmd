@@ -46,7 +46,9 @@ save_papers_rpys(RPYS_MS, filename = "rpys_papers.tsv")
 
 Alternatively, the save_papers function accepts a list of results to save in a single list of papers. Example (not run):
 
-    save_papers_rpys(list(RPYS_MS1, RPYS_MS2), filename = "rpys1+2_papers.tsv")
+```{r, eval=FALSE}
+save_papers_rpys(list(RPYS_MS1, RPYS_MS2), filename = "rpys1+2_papers.tsv")
+```
 
 You can directly access the list of papers through
 

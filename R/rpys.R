@@ -12,7 +12,7 @@
 identify_rpys_milestones <- function (M) {
 
   # Clean the references, keep only the well-formatted ones
-  print ("Processing references ...")
+  cat("Processing references ...\n")
 
   cited_refs = tibble::tibble(
     REF = M$CR %>% stringr::str_split(";") %>% unlist(),
@@ -31,7 +31,7 @@ identify_rpys_milestones <- function (M) {
     )
 
   # If a year has more citations than the average of the previous 5 years, consider it a peak
-  print ("Finding peaks ...")
+  cat("Finding peaks ...\n")
 
   lvls = (min(cited_refs$YEAR, na.rm = T) - 1):(max(cited_refs$YEAR, na.rm = T))
 
@@ -47,7 +47,7 @@ identify_rpys_milestones <- function (M) {
     as.character() %>% as.numeric()
 
   # For each peak, pick the most-cited paper of each year
-  print ("Finding references for peak years ...")
+  cat("Finding references for peak years ...\n")
 
   peak_papers = purrr::map_dfr(peak_years, function(peak_year) {
     year_refs = cited_refs %>%

@@ -42,28 +42,27 @@ save_network(NET, filename = "citation_network")
 
 In Pajek, the following steps will build and export the main path:
 
-1. Read Network (to pick the .net file saved in the previous step)
-2. Network → Acyclic Network → Create Weighted Network + Vector → Trasversal Weights → Search Path Link Count (SPLC)
-3. At this point, if the citation loops mentioned above have not been eliminated, Pajek will throw an error.
-4. Network → Acyclic Network → Create (Sub)Network → Main Paths → Global Search → Key-Route
-5. We will choose the Key Routes 1-10 as the parameter.
-6. Click on the Save button for Networks and save a .net file with the main path (call it "mainpath1.net".
+1. Read Network (the button with the folder icon below the Networks label) → to pick the *.net* file saved in the previous step. Alternatively, you can drag and drop the file on Pajek.
+1. Network → Acyclic Network → Create Weighted Network + Vector → Trasversal Weights → Search Path Link Count (SPLC). At this point, if the citation loops mentioned above have not been eliminated, Pajek will throw an error. If it succeeds, there will be a new entry "Citation Weights ..." under *Vectors*.
+1. Network → Acyclic Network → Create (Sub)Network → Main Paths → Global Search → Key-Route. Choose the Key Routes 1-10 as the parameter. This will create a new entry "Vertices on Key-Route ..." under *Partitions*.
+1. Click on the Save button for Networks and save a *.net* file with the main path (call it "mainpath1.net". Make sure that the selected network when you save is the main path (something named like "Key-Route Global Main Path ...").
 
-Once you have the .net file with the main path, import this file back into R:
+Once you have the .net file with the main path, import this file back into R (for this example, the file already exists):
 
 ```{r}
-NET_MP1 = read_network(filename = "mainpath1.net", NET)
+main_path_filename = system.file("extdata", "mainpath1.net", package = "milestones", mustWork = T)
+
+NET_MP1 = read_network(filename = main_path_filename, NET)
 ```
 
 Now that the main path is identified, save the list of papers contained within it (it will be saved as a TSV file.
 
 ```{r}
-save_papers_mp(NET_MP1, filename = "mainpath1_papers.tsv")
+save_papers_mp(NET_MP1, filename = "mainpath1", M)
 ```
 
-Alternatively, the save_papers function accepts a list of networks to save in a single list of papers. Example:
+Alternatively, the save_papers function accepts a list of networks to save in a single list of papers. Example (not run):
 
-```{r}
+```{r, eval=FALSE}
 save_papers_mp(list(NET_MP1, NET_MP2), filename = "mainpath1+2_papers.tsv")
 ```
-
