@@ -20,7 +20,7 @@ build_network = function (M) {
 #' .net format readable by the Pajek software.
 #'
 #' @param M A bibliometrix M data frame.
-#' @param filnema Where to save the files. Extensions will be appended.
+#' @param filename Where to save the files. Extensions will be appended.
 #' @return An igraph citation network.
 #' @export
 save_network <- function (NET, filename) {
