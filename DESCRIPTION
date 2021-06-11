@@ -17,4 +17,12 @@ Suggests:
 VignetteBuilder: knitr
 RoxygenNote: 7.0.2
 Imports: 
-    magrittr
+    magrittr,
+    ggplot2,
+    bibliometrix,
+    stringr,
+    purrr,
+    dplyr,
+    igraph,
+    Matrix,
+    tibble
