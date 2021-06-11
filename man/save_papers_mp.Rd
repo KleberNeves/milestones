@@ -4,14 +4,14 @@
 \alias{save_papers_mp}
 \title{Save list of main path papers}
 \usage{
-save_papers_mp(NET, output_path, M = NULL)
+save_papers_mp(NET, filename, M)
 }
 \arguments{
 \item{NET}{The main path network, as an igraph object.}
 
-\item{output_path}{Path to a directory to save the main path files.}
-
 \item{M}{A bibliometrix M data frame.}
+
+\item{output_path}{Path to a directory to save the main path files.}
 }
 \value{
 An bibliometrix data frame with only the main path nodes.
