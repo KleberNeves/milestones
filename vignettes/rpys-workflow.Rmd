@@ -20,7 +20,7 @@ library(milestones)
 
 This vignette shows how to run the main path analysis for a dataset containing bibliographic and citation data.
 
-The first step is to search for the terms on Web of Science. If you are conducting your own search, just export it as indicated in [this vignette](!...) from package *bibliometrix* (which is used under the hood to read the data). An example of such data is available in this package, so you can just import it as indicated below. This data corresponds for a search of "captopril + hypertension".
+The first step is to search for the terms on Web of Science. If you are conducting your own search, just export it as indicated in [this vignette](!https://www.bibliometrix.org/vignettes/Introduction_to_bibliometrix.html) from package *bibliometrix* (which is used under the hood to read the data). An example of such data is available in this package, so you can just import it as indicated below.
 
 ```{r}
 wos_records = system.file("extdata", "optogenetics.txt", package = "milestones", mustWork = T)
@@ -44,11 +44,9 @@ If it runs successfully, to save the list of milestones, use:
 save_papers_rpys(RPYS_MS, filename = "rpys_papers.tsv")
 ```
 
-Alternatively, the save_papers function accepts a list of results to save in a single list of papers. Example:
+Alternatively, the save_papers function accepts a list of results to save in a single list of papers. Example (not run):
 
-```{r}
-save_papers_rpys(list(RPYS_MS1, RPYS_MS2), filename = "rpys1+2_papers.tsv")
-```
+    save_papers_rpys(list(RPYS_MS1, RPYS_MS2), filename = "rpys1+2_papers.tsv")
 
 You can directly access the list of papers through
 

@@ -13,6 +13,7 @@ identify_rpys_milestones <- function (M) {
 
   # Clean the references, keep only the well-formatted ones
   print ("Processing references ...")
+
   cited_refs = tibble::tibble(
     REF = M$CR %>% stringr::str_split(";") %>% unlist(),
     CLEAN_REF = REF %>% purrr::map_chr(~stringr::str_extract(.x,'[A-Z .-]+, [0-9]{4}, .+?(,|$)')) %>%
@@ -30,20 +31,7 @@ identify_rpys_milestones <- function (M) {
     )
 
   # If a year has more citations than the average of the previous 5 years, consider it a peak
-  is_peak = function (variable) {
-    local_speed = purrr::imap_dbl(variable, function(current, i) {
-      if (i > 1) before = variable[i - 1] else before = 0
-      current - before
-    })
-
-    downwards = purrr::imap_lgl(local_speed, function(current, i) {
-      if (i > 1) before = local_speed[i - 1] else before = 0
-      if (i < length(local_speed)) after = local_speed[i + 1] else after = 0
-      current > 0 & after < 0
-    })
-
-    downwards
-  }
+  print ("Finding peaks ...")
 
   lvls = (min(cited_refs$YEAR, na.rm = T) - 1):(max(cited_refs$YEAR, na.rm = T))
 
@@ -59,7 +47,9 @@ identify_rpys_milestones <- function (M) {
     as.character() %>% as.numeric()
 
   # For each peak, pick the most-cited paper of each year
-  peak_papers = map_dfr(peak_years, function(peak_year) {
+  print ("Finding references for peak years ...")
+
+  peak_papers = purrr::map_dfr(peak_years, function(peak_year) {
     year_refs = cited_refs %>%
       dplyr::filter(YEAR == peak_year)
 
@@ -84,6 +74,29 @@ identify_rpys_milestones <- function (M) {
     ggplot2::theme(legend.position = "none")
 
   list(documents = peak_papers, rpys = p)
+}
+
+#' Finds peaks in time series data
+#'
+#' Finds local maxima in a time series vector. It will return a matching
+#' logical vector with TRUE where the direction of growth changes, i.e.
+#' on the peaks.
+#'
+#' @param variable A numeric vector where peaks will be identified.
+#' @return A logical vector matching the variable argument, identifying the peaks
+is_peak = function (variable) {
+  local_speed = purrr::imap_dbl(variable, function(current, i) {
+    if (i > 1) before = variable[i - 1] else before = 0
+    current - before
+  })
+
+  downwards = purrr::imap_lgl(local_speed, function(current, i) {
+    if (i > 1) before = local_speed[i - 1] else before = 0
+    if (i < length(local_speed)) after = local_speed[i + 1] else after = 0
+    current > 0 & after < 0
+  })
+
+  downwards
 }
 
 #' Save list of RPYS milestones papers
