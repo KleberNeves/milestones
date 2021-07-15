@@ -8,9 +8,9 @@
 #' @param path Full path to the folder containing the bibliometric data.
 #' @return An "M" data frame, as loaded and converted through bibliometrix.
 #' @export
-read_biblio_data <- function (filenames, path = NULL) {
+read_biblio_data <- function (filenames = NULL, path = NULL) {
   if (!is.null(path)) {
-    filenames = paste0(folder, "/", list.files(folder, ".txt$"))
+    filenames = paste0(path, "/", list.files(path, ".txt$"))
   }
   M = bibliometrix::convert2df(filenames, dbsource = "isi", format = "plaintext")
   M
