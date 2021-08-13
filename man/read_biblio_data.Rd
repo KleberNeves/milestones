@@ -4,7 +4,7 @@
 \alias{read_biblio_data}
 \title{Load a bibliometric data frame}
 \usage{
-read_biblio_data(filenames, path = NULL)
+read_biblio_data(filenames = NULL, path = NULL)
 }
 \arguments{
 \item{filenames}{A vector with the filenames.}
